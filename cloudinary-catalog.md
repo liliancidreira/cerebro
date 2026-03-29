@@ -78,8 +78,8 @@ A skill usa este catálogo para escolher imagens reais ao gerar carrosseis.
 - `Michelin-Logo-2017-present_djsfm4.jpg` — Michelin (alt) — https://res.cloudinary.com/dhf68xips/image/upload/Michelin-Logo-2017-present_djsfm4.jpg
 - `logo-taesa_jmffii.png` — Taesa — https://res.cloudinary.com/dhf68xips/image/upload/logo-taesa_jmffii.png
 - `Sesc-Logo-Vector.svg-_t9vhpz.png` — SESC — https://res.cloudinary.com/dhf68xips/image/upload/Sesc-Logo-Vector.svg-_t9vhpz.png
-- `logo-vertical_ljgidj.png` — ⚠️ identificar — https://res.cloudinary.com/dhf68xips/image/upload/logo-vertical_ljgidj.png
-- `cf03c7_98c020bdd1074d1ab538559f3540d3f3_mv2_rrd6gc.png` — ⚠️ identificar — https://res.cloudinary.com/dhf68xips/image/upload/cf03c7_98c020bdd1074d1ab538559f3540d3f3_mv2_rrd6gc.png
+- `logo-vertical_ljgidj.png` — Wilson, Sons — https://res.cloudinary.com/dhf68xips/image/upload/logo-vertical_ljgidj.png
+- `cf03c7_98c020bdd1074d1ab538559f3540d3f3_mv2_rrd6gc.png` — Allos — https://res.cloudinary.com/dhf68xips/image/upload/cf03c7_98c020bdd1074d1ab538559f3540d3f3_mv2_rrd6gc.png
 
 ---
 
@@ -90,7 +90,7 @@ A skill usa este catálogo para escolher imagens reais ao gerar carrosseis.
 - `UOL_logo_noecym.png` — UOL — https://res.cloudinary.com/dhf68xips/image/upload/UOL_logo_noecym.png
 - `Terra_Logo_uerri1.png` — Terra — https://res.cloudinary.com/dhf68xips/image/upload/Terra_Logo_uerri1.png
 - `Pequenas-Empresas-Grandes-Negocios_rfqojv-1_ilrrab.png` — Pequenas Empresas Grandes Negócios — https://res.cloudinary.com/dhf68xips/image/upload/Pequenas-Empresas-Grandes-Negocios_rfqojv-1_ilrrab.png
-- `7036-1071_import_hoifbe.png` — ⚠️ identificar — https://res.cloudinary.com/dhf68xips/image/upload/7036-1071_import_hoifbe.png
+- `7036-1071_import_hoifbe.png` — Estadão (versão com mascote cavaleiro) — https://res.cloudinary.com/dhf68xips/image/upload/7036-1071_import_hoifbe.png
 
 ---
 
@@ -119,12 +119,9 @@ A skill usa este catálogo para escolher imagens reais ao gerar carrosseis.
 
 ---
 
-## A IDENTIFICAR
+## CATÁLOGO 100% IDENTIFICADO
 
-Estes 3 assets precisam de verificação visual:
-- `logo-vertical_ljgidj.png` — possivelmente Future Minds versão vertical
-- `cf03c7_98c020bdd1074d1ab538559f3540d3f3_mv2_rrd6gc.png` — logo não identificado
-- `7036-1071_import_hoifbe.png` — logo de mídia não identificado
+Todos os 63 assets estão identificados e catalogados.
 
 ---
 
