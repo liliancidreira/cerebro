@@ -100,3 +100,7 @@ Em vez de "O que mudou?" seguido da resposta, **incorporar diretamente como afir
 | 2026-03-28 | Formato | Sem título editorial em posts de LinkedIn | Ajuste no post da médica |
 | 2026-03-28 | Dados | Usar dado exato do banco — nunca aproximar para baixo | Ajuste "25 anos" vs "20 anos" |
 | 2026-03-28 | Voz | Sem perguntas retóricas óbvias — incorporar como afirmação | Ajuste no post da médica |
+| 2026-03-30 | Carrossel | Referenciar o contexto exato: "Na sessão de mentoria" em vez de marcador temporal genérico ("Na segunda-feira") | Ajuste carrossel da médica |
+| 2026-03-30 | Carrossel | CTA final pode ser uma pergunta direta e curta — não precisa ter instrução de salvar | Ajuste carrossel da médica |
+| 2026-03-30 | Carrossel | "Impressão Digital Corporativa" deve aparecer quando o resultado do aluno é uma metodologia com assinatura própria | Ajuste carrossel da médica |
+| 2026-03-30 | Carrossel | Slide de resultado pode ter duas linhas separadas para destacar conquistas distintas | Ajuste carrossel da médica |
