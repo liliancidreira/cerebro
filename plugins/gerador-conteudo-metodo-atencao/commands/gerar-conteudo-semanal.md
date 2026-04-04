@@ -24,7 +24,7 @@ Se CEREBRO OK: ler todos os arquivos de referência:
 - `/tmp/cerebro/banco-de-historias.md`
 - `/tmp/cerebro/voz-e-aprendizados.md`
 - `/tmp/cerebro/skill-knowledge/brand-knowledge.md`
-- `/tmp/cerebro/skill-knowledge/metodo-atencao/*.md` (todos os 7 arquivos)
+- `/tmp/cerebro/skill-knowledge/metodo-atencao/*.md` (todos os arquivos, incluindo 30-templates-copy.md)
 
 Se CEREBRO OFFLINE: informar e usar conhecimento interno da skill.
 
