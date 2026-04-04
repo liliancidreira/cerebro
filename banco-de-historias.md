@@ -82,19 +82,35 @@ DATA DE COLETA: 2026-03-28
 ### História 002 — O executivo de varejo (coletada em 2026-04-04)
 
 ```
-PERFIL: Executivo — Varejo/Shopping/Farmacêutica — 30+ anos — 57 anos
+### História 002 — O executivo de varejo (coletada em 2026-04-04)
+
+```
+PERFIL: Executivo — Varejo/Shopping/Farmacêutica — 30+ anos de experiência — 57 anos
 NOME NO CONTEÚDO: "ele", "o executivo" — nunca revelar nome real (Ricardo)
-ESTADO INICIAL: Montou operação em 7 estados, 48 pontos de venda, equipes de 300+.
- Funcionário dele virou CEO e depois chefe dele. Indicado por juiz para mediar
- dissolução de sociedade. Fez psicologia aos 55. Clinicando, estudando Carl Rogers.
- Disse: "Eu tô perdido, amiga. Todo mundo acha que eu tô bem. Mas eu não tô me encontrando."
-PONTO DE VIRADA: (em andamento)
+ESTADO INICIAL: Montou operação de varejo em 7 estados, abriu 48 pontos de venda,
+ liderou equipes de 300+ pessoas. Formou profissionais que se tornaram seus
+ superiores hierárquicos (funcionário dele virou CEO e depois chefe dele).
+ Foi indicado por um juiz para mediar dissolução de sociedade.
+ Começou faculdade de psicologia aos 55, inspirado por uma psicóloga e uma
+ funcionária que reconheceram seu dom com pessoas. Está clinicando,
+ estudando Carl Rogers, mas se sente perdido profissionalmente.
+ Disse para a Lilian: "Eu tô perdido, amiga. Todo mundo acha que eu tô bem.
+ Mas eu não tô me encontrando."
+PONTO DE VIRADA: (em andamento — potencial mentorado)
 RESULTADO: (em andamento)
-PADRÃO: Expertise presa dentro de cargos e CNPJs alheios.
+PADRÃO: Expertise presa dentro de cargos e CNPJs alheios. Nunca teve alguém
+ que mostrasse que tudo o que ele sabe resolver tem valor de mercado como
+ produto próprio. A faculdade nova aos 55 mostra coragem, mas sem estrutura
+ de monetização o sentimento de "estar perdido" persiste.
 DATA DE COLETA: 2026-04-04
-DETALHES STORYTELLING: funcionário que virou chefe (hierarquia invertida),
- indicação do juiz, psicóloga ("dom com pessoas"), funcionária ("fala de um
- jeito que a gente entende"), faculdade aos 55.
+DETALHES RICOS PARA STORYTELLING:
+ - A cena do funcionário que virou chefe dele (hierarquia invertida)
+ - A indicação do juiz como prova de autoridade natural
+ - A psicóloga da empresa: "você tem toda a habilidade pra lidar com o ser humano"
+ - A funcionária: "o senhor é nervoso com processos, mas quando fala com a gente,
+   fala de um jeito que a gente entende"
+ - A faculdade nova aos 55 — coragem vs. sensação de estar recomeçando
+ - Amigos perguntam "e você, tá fazendo o quê?" e ele congela
 ```
 
 **Formato padrão para novas histórias:**
@@ -170,5 +186,5 @@ DATA DE COLETA: 2026-03-28
 | — | — | Banco inicializado com sementes do brand-knowledge.md | — |
 | 2026-03-28 | Aluno | Médica demitida → contrato hospitalar + programa próprio em 3 meses | Post LinkedIn 2026-03-28 |
 | 2026-03-28 | Padrão | Executivos de grandes empresas crescem sem construir saída | Post LinkedIn 2026-03-28 |
-| 2026-04-04 | Aluno | Executivo varejo 57a, perdido após sair do corporativo | Reel 2026-04-04 |
+| 2026-04-04 | Lead | Executivo varejo 57a, perdido após sair do corporativo | Reel 2026-04-04 |
 
