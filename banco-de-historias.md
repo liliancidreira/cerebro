@@ -77,6 +77,26 @@ PADRÃO: Alta competência técnica + zero estrutura fora da CLT = vulnerabilida
 DATA DE COLETA: 2026-03-28
 ```
 
+
+
+### História 002 — O executivo de varejo (coletada em 2026-04-04)
+
+```
+PERFIL: Executivo — Varejo/Shopping/Farmacêutica — 30+ anos — 57 anos
+NOME NO CONTEÚDO: "ele", "o executivo" — nunca revelar nome real (Ricardo)
+ESTADO INICIAL: Montou operação em 7 estados, 48 pontos de venda, equipes de 300+.
+ Funcionário dele virou CEO e depois chefe dele. Indicado por juiz para mediar
+ dissolução de sociedade. Fez psicologia aos 55. Clinicando, estudando Carl Rogers.
+ Disse: "Eu tô perdido, amiga. Todo mundo acha que eu tô bem. Mas eu não tô me encontrando."
+PONTO DE VIRADA: (em andamento)
+RESULTADO: (em andamento)
+PADRÃO: Expertise presa dentro de cargos e CNPJs alheios.
+DATA DE COLETA: 2026-04-04
+DETALHES STORYTELLING: funcionário que virou chefe (hierarquia invertida),
+ indicação do juiz, psicóloga ("dom com pessoas"), funcionária ("fala de um
+ jeito que a gente entende"), faculdade aos 55.
+```
+
 **Formato padrão para novas histórias:**
 ```
 PERFIL: [Cargo] — [Setor] — [Anos de experiência] — [Faixa etária aproximada]
@@ -150,3 +170,5 @@ DATA DE COLETA: 2026-03-28
 | — | — | Banco inicializado com sementes do brand-knowledge.md | — |
 | 2026-03-28 | Aluno | Médica demitida → contrato hospitalar + programa próprio em 3 meses | Post LinkedIn 2026-03-28 |
 | 2026-03-28 | Padrão | Executivos de grandes empresas crescem sem construir saída | Post LinkedIn 2026-03-28 |
+| 2026-04-04 | Aluno | Executivo varejo 57a, perdido após sair do corporativo | Reel 2026-04-04 |
+
