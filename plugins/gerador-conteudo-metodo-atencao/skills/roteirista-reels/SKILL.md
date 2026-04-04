@@ -16,9 +16,10 @@ Leia antes de escrever qualquer roteiro:
 1. `/tmp/cerebro/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — estrutura completa
 2. `/tmp/cerebro/skill-knowledge/metodo-atencao/5-pilares-reels.md` — os 5 pilares
 3. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — referência dos gatilhos
-4. `/tmp/cerebro/voz-e-aprendizados.md` — regras de voz da Lilian
-5. `/tmp/cerebro/banco-de-historias.md` — histórias reais para usar no storytelling
-6. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — ICP, proibições, tom
+4. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
+5. `/tmp/cerebro/voz-e-aprendizados.md` — regras de voz da Lilian
+6. `/tmp/cerebro/banco-de-historias.md` — histórias reais para usar no storytelling
+7. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — ICP, proibições, tom
 
 ---
 
@@ -68,6 +69,7 @@ Abrir com algo que OBRIGA a parar. Três formatos de abertura:
 - **Negação da crença popular**: "O Instagram NÃO matou o alcance dos seus stories porque a sua rotina é chata. E sim por um motivo que as pessoas não entenderam ainda."
 - **Sequência rápida de eventos**: Listar 4-6 fatos/eventos reais em ritmo acelerado, fechando com "Será que isso é coincidência?" ou "E ninguém tá falando sobre isso."
 - **Afirmação contraintuitiva**: Uma frase curta que contradiz o senso comum e abre um vazio de curiosidade.
+
 Logo após o choque: Micro-CTA ("já salva esse vídeo, porque eu tenho certeza que vai mudar a forma como você enxerga isso").
 
 **BLOCO 2 — VALIDAÇÃO (15-30s)**
@@ -122,7 +124,7 @@ Sair do ritmo emocional e entrar na autoridade com números: "Para você ter ide
 **BLOCO 5 — REVELAÇÃO (1:20-1:30)**
 O loop aberto que foi criado no início é fechado: "Mas o maior vilão de 2026 tem nome... são as distrações." Curto, direto, memorável.
 
-**BLOCO 6 — CTA TRIPLO COM FILTRO (últimos 10-15s)**
+**BLOCO 6 — CTA TRIPLO COM FILTRO (últimos 10-15s)*
 
 ---
 
@@ -143,106 +145,59 @@ Cada item da lista segue uma micro-estrutura de 4 camadas:
 1. **Nomeia o hábito/dica** com clareza
 2. **Conta o que FAZ (ou fez)** — história pessoal, experiência real, ferramenta que usa
 3. **Conecta com a dor do espectador** — "se você tem percebido dificuldade em X..."
-4. **Entrega o benefício** — "vai ser um divisor de águas"
-
-IMPORTANTE: Os itens são universais (dormir, ler, meditar, focar). Cada um é útil isoladamente. A lista inteira gera alto salvamento porque a pessoa quer rever depois.
-
-**BLOCO 3 — ÚLTIMO ITEM = PIVOT PARA O NICHO (penúltimos 20-30s)**
-O último item da lista é sempre a conexão com o nicho: "E o sétimo: poste conteúdo." / "E o quinto: comece a posicionar sua expertise."
-Os itens anteriores eram universais. Este é o gancho para o produto/método. A transição é orgânica porque vem dentro de uma sequência lógica.
-
-**BLOCO 4 — DESAFIO + CTA CONDICIONAL (últimos 15-20s)**
-Em vez de CTA padrão, propor um desafio: "E eu quero ver se você topa o meu desafio... [desafio concreto]. Se você topar e se comprometer comigo, [recompensa]."
-O CTA tem CONDIÇÃO: "Digita [palavra] nos comentários — mas só se você topar o desafio." Isso filtra e ao mesmo tempo compromete publicamente.
-
----
-
-## ADAPTAÇÃO PARA A VOZ DA LILIAN
-
-Os arquétipos acima seguem o padrão Elias Maman. Para a Lilian, adaptar:
-
-### Tom e Linguagem
-- Usa "eu" e "você" — nunca "a gente" ou "vocês"
-- Fala em primeira pessoa feminina: "eu fui demitida", "eu estava cansada", "eu mesma"
-- Tom: diagnóstico e assertivo, baseado em experiência vivida — nunca motivacional genérico
-- Frases de autoridade: "o que eu percebo é...", "eu vejo muito executivo...", "vou te dar exatamente..."
-- Zero emojis, zero hashtags
-
-### Assuntos Universais da Lilian
-No lugar de geopolítica/algoritmo (nicho do Elias), os assuntos universais da Lilian são:
-- Mercado de trabalho e demissões (afeta milhões)
-- Transição de carreira depois dos 40 (identificação massiva)
-- Síndrome do impostor em profissionais seniores
-- IA substituindo empregos e exigindo reposicionamento
-- A ilusão de segurança do CLT / emprego corporativo
-- Maternidade e carreira (intersecção potente)
-
-### Nicho da Lilian (aparece depois)
-- Mentoria Signature para executivos em transição
-- Posicionamento de autoridade profissional
-- Monetização de expertise/conhecimento acumulado
-
-### CTAs da Lilian
-Em vez de "DIAGNÓSTICO", usar a palavra-gatilho definida para a campanha atual. Exemplos:
-- "Comenta MENTORIA se você quer entender como funciona"
-- "Comenta ESTRATÉGIA que eu te mando os detalhes"
-- "Me segue e me chama no DM que eu te explico o próximo passo"
-
-### Histórias e Provas
-Sempre priorizar histórias do banco (`banco-de-historias.md`). Cada caso real citado precisa ter:
-- Nome (pode ser primeiro nome)
-- Situação antes (a dor)
-- Resultado depois (concreto, com números se possível)
-- Tempo que levou
-
----
-
-## FORMATO DE ENTREGA
-
-```
-## ROTEIRO: [Título Editorial]
-
-**Arquétipo**: [O Revelador / O Provocador / O Professor]
-**Duração estimada**: [X minutos]
-**Formato de gravação**: [direto para câmera / lowfi / tela dividida / etc.]
-**Gatilhos ativados**: [lista dos gatilhos com momento de ativação]
-**Funil**: [Topo / Meio]
-
----
-
-[BLOCO 1 — título do bloco]
-[Texto falado + indicações: [PAUSA], [OLHAR DIRETO], [ENFATIZAR], [RITMO ACELERADO]]
-[Texto sugerido para tela se houver]
-
-[BLOCO 2 — título do bloco]
-...
-
-[BLOCO N — CTA]
-[Texto do CTA triplo com filtro]
-
----
-
-**Texto sugerido para tela** (overlay):
-- Abertura: [frase curta de impacto]
-- Revelação: [a tese central em 1 linha]
-
-**Checklist DNA**:
-- [ ] Primeira frase é o gancho (sem saudação/contexto)
-- [ ] Micro-CTA nos primeiros 15s
-- [ ] Storytelling presente (não é informação seca)
-- [ ] Pelo menos 1 dado concreto com número
-- [ ] Nicho aparece depois, não antes
-- [ ] CTA triplo com filtro
-```
-
-## Regras do Roteirista
-
-- Escolher o arquétipo com base no briefing do estrategista. Se não for especificado, decidir pelo tema e gatilhos
-- O gancho é a frase mais forte do vídeo inteiro — se não para o scroll, reescrever antes de seguir
-- Priorizar histórias reais do banco — nunca inventar casos
-- A Lilian deve soar como executiva que viveu o que fala, não como influencer
-- Incluir indicações de gravação: pausas, ênfases, ritmo, olhares
-- Cada roteiro deve ser autossuficiente — quem assiste sem contexto anterior precisa entender
-- Reels de 1:30 a 3:00 superam curtos para conversão — não ter medo de roteiros longos se a estrutura mantém retenção
-- Nunca usar os 3 arquétipos no mesmo pack semanal sem variar — alternar para manter a audiência surpreendida
-- O checklist DNA no final da entrega é obrigatório — se algum item falhar, corrigir antes de entregar
+4. **Entrega o benefício** — "vai se�[H]�\�܈H0�Y�X\Ȃ��STԕS�N���][������[�]�\��Z\�
+ܛZ\�\�YY]\����\�K��YH[H0�H0�[\��Y[Y[�K�H\�H[�Z\�H�\�H[��[�[Y[��ܜ]YHH\���H]Y\��]�\�\�\˂���������8�%0�SS�USHHU��T�H��P��
+[��[[���L��J����0�[[�][HH\�H0�H�[\�HH�ۙ^0�����H��X�Έ�H���][[Έ��H�۝p�ˈ���H�]Z[�Έ��YX�HH��X�[ۘ\��XH^\�\�K�����][��[�\�[ܙ\�\�[H[�]�\��Z\ˈ\�H0�H��[���\�H���]��p�]�ˈH�[��p�����0�Hܙ�蛚X�Hܜ]YH�[H[���H[XH�\]pꛘ�XH0���X�K���������
+8�%T�Q�S�
+��H�ӑP�SӐS
+0�[[��MKL��J���[H�^�H�HY������܈[H\�Y�[Έ�H]H]Y\���\��H�����H�Y]H\�Y�[ˋ���\�Y�[��ۘܙ]�K��H�����\�H�H��\��Y]\���ZY��ܙX��\[��WK�����H[H�ӑp����Έ�Y�]H�[]��WH�����Y[�0�\�[��8�%X\�����H�����\��\�Y�[ˈ�\����[�HH[�Y\�[�[\���\��Y]HX�X�[Y[�K���KKB����QTp�����T�HH�ֈHSPS�����\�]p�]\��X�[XH�Y�Y[H�Y����[X\�X[X[��\�HH[X[�Y\\��������HH[��XY�[B�H\�H�]H�H����ꈈ8�%�[��H�H�[�H��H�����Ȃ�H�[H[H�[YZ\�H\���H�[Z[�[�N��]H�ZH[Z]YH��]H\�]�H�[��YH��]HY\�XH��H�N�XY۰���X��H\��\�]���\�XY�[H^\�pꛘ�XH�]�YH8�%�[��H[�]�X�[ۘ[�[��\�X�H��\�\�H]]ܚYYN���]YH]H\��X��0�K�����]H�Z��]Z]�^X�]]�ˋ������HH\�^][Y[�K�����H�\��[[ښ\��\��\�Y�����\��[���[�]�\��Z\�H[X[����Y�\�H�[��0�]X�K�[�ܚ][�
+�X���[X\�K��\��[���[�]�\��Z\�H[X[����΂�HY\��Y�H�X�[�H[Z\���Y\�
+Y�]HZ[0�Y\�B�H�[��p�����H�\��Z\�H\�\���
+
+Y[�Y�X�p�����X\��]�JB�H��[���YH�[\��܈[H�ٚ\��[ۘZ\��[�[ܙ\HPH�X��]Z[��[\�Y���H^Y�[���\��X�[ۘ[Y[�HH[\����H�Y�\�[���H���[\�Y���ܜܘ]]�HX]\��YYHH�\��Z\�H
+[�\��X�������[�JB������X��H[X[�
+\\�X�H\�\�B�HY[�ܚXH�Yۘ]\�H\�H^X�]]���[H�[��p����H��X�[ۘ[Y[��H]]ܚYYH�ٚ\��[ۘ[�H[ۙ]^�p�����H^\�\�K��ۚX�[Y[��X�[][Y�����\�H[X[��[H�^�H�PQӰ���P�ȋ\�\�H[]��KY�][�Y�[�YH\�HH�[\[�H]X[�^[\�΂�H���Y[�HQS�ԒPH�H����]Y\�[�[�\���[��[��[ۘH��H���Y[�HT��U0�Q�PH]YH]HHX[����][\Ȃ�H�YH�Y�YHHYH�[XH��H]YH]HH^X������[[�\��Ȃ�����\�0�ܚX\�H�ݘ\�[\�H�[ܚ^�\�\�0�ܚX\���[���
+�[���YKZ\�ܚX\˛Y
+K��YH�\���X[�]Y��X�\�H\���H��YH
+�H�\��[YZ\����YJB�H�]Xp�����[�\�
+H܊B�H�\�[Y�\�\�
+�ۘܙ]���H��Y\����H����]�[
+B�H[\�]YH]��B��KKB����STUT�HP�T�T�HT�H�QS�[0�[H���\�]p�]\�����Z\�\�H[HX�\���H
+���[\]\�HZXܛ�Y\��]\�J��
+\�]Z]���][\]\�X��K�Y
+K��\��]Y�\�H�H�Y�\�\�[H[\]H\�X��Y�X������YY�[�ˈ]X[���Y�\�Y����Z\�\�H\�HH\��]\�H�[\]H��[�\�]Y[]�[����\�]p�]\�\���Y˂�����L0�XۚX�\�HX�\�\�H��[\]\�
+Y\Y\�\�H��Y[�B����K�Z]\�HY[�[
+
+K�
+�J��8�%�\�\�]�\�H��Y\�N��Z^H]HY]�[�\�������\�ܙ]�H�]Xp�������H�X�\����K�����UT�WHH\���H\�Hܜ]YH�[�H]YH\�0����[[����H[K�������\�Y�[��Y�]]��
+L����J��8�%�H�\�YK�[H�ܜ�\������������ZH�ۜ�Y�Z\�ܙ\�[Y�K�����[�]X[���۝[�X\����\ܝ[Y[��K���UT�Hӑ�WH���]YH�]0�[KHY[�Y�X�p�����X[�0�[K�����ˈؚ�]��Hp���
+M
+J��8�%�[���\�ؚ�]��]����[WH�\���\]ZH0�H�[�]��[�]X[ܙ\�[Y��ۘܙ]�K��H][������[YYX]H��ؚ�]�
+�Z\�0�\�[��؜�HH�ۙ^0����[�K��������\\�p������\�[��H
+N��JJ��8�%��X�HHY�\�[���H[��H�HH�WO��UT�WH����0�H�]YH����[��K�����\�X���[�H�\�ۙ\�]]�X]X�[Y[�HH�X�H\�H�\��HX�\��K�����K�\�H[�\�]]��
+NJJ��8�%�\�H��\Y��H�X�\��H����\�0�H�۝H�Hܙ\�[Y�K��\�ۙHY[�[Y[�K���YH][H�\�H[H������H]\�H\�HH\���H���\��\��������]]ܚ]H�ܜ���[��
+�K��
+J��8�%���]]ܚYYWH^�]YH�K�X\�[H[��]YH[H����Y[��[ۘK��Y�HܙYX�[YYH[\�\�YHH�HY�\�[��XK�����ˈ�[�T�Y[��
+��J��8�%�0�H��][���[[���؜�H��[�K�]H�ZH\�\���\�ݙZ]HHۙHH][������]YH��H^\�K�������]\���ڙ]Y�
+��J��8�%��]YHX�۝X�\�XH�H�����^�\��H�p�����H܈�\��[��OȈԒUS���ԑT��U��H\�ܙ]�\�p��Hp�ˈH\���H�\�X[^�HH]Y\��Y�\�0�K�����K�X\H[���\]�
+
+�J��8�%[��Y�\��[܈�X[����[YZ\��������8����������[�[��X\�[H[XH\�H]YH]YHY�H]YH]H�����WK��H[���\]YH0�H�]\�[�����X�ؘZ]�����L��\�Yܙ\�
+M���JJ��8�%�\��H�[X[�HX�۝X�]H[��]YHYH]H[XHYZXK�����H��[H��ZY���H��]Xp�����K��[X[�^�HHܚXH�ۙ^0���[H�[��\�ꛘ�XK�������YܘHH��X�[�p�����[\]H
+�\�]p�]\��[\]HY�[�HH
+��X�\�\�HH�\�]Y[]��\��]]�ʊ���\�]p�]\�Y�[�H�
+���][���HHH\��]\�HH����ʊ��^[\΂�H
+H
+Z]\�HY[�[
+H
+��]�[Y܈HX��H��H�Z^H]HY]�[�\�����8����Y�YH��H�[Yp�����8����Y��[YH8����ܞ][[��8����]�[p�����8����B�HNH
+ܘ[�H\�JH
+��ٙ\��܈HX��H��H\�H8����YH][H��H�ܞ][[��8���0�[[�][HH]�����X��8���\�Y�[�
+��B�H�H
+�Y�Z[��]]ܚYY\�H
+��ݛ��Y܈HX��H��H�]p�����H]]ܚYYH8���[\Y�X�H��H�ݛ��p�����8���\�H��]ZX�H8���Y��8����]�[p�����8����B��KKB�����ԓPU�HS��Q�B�������RT�Έ�0�][�Y]ܚX[B����\�]p�]\ʊ�����]�[Y܈���ݛ��Y܈���ٙ\��ܗB���[\]HH��J�������Y���[\]H\�Y�^�
+HZ]\�HY[�[8�%�H��[�[H��H����\X��]�[B���\�p�����\�[XYJ����Z[�]��B����ܛX]�Hܘ]�p����ʊ���\�]�\�H��Y\�H��ٚH�[H]�YYH�]˗B����][��]]�Y�ʊ���\�H���][����H[�Y[��H]]�p�����B����[�[
+�������YZ[�B��KKB��Г���H8�%0�][������B��^��[Y�
+�[�X�p���Y\Έ�UT�WK��T�T�U�K�S��UV�T�KԒUS�P�ST�Q�WB��^��Y�\�Y�\�H[H�H�]�\�B��Г����8�%0�][������B������Г����8�%�WB��^���H�\���H�[��B��KKB����^��Y�\�Y�\�H[J��
+ݙ\�^JN��HX�\�\�N�ٜ�\�H�\�HH[\X��B�H�]�[p����Έ�H\�H�[��[[HH[�WB�����X��\��J����H�H�[YZ\�H��\�H0�H��[���
+�[H�]Yp�������۝^�B�H�HZXܛ�P�H����[YZ\���M\H�H�ܞ][[���\�[�H
+����0�H[��ܛXp������X�JB�H�H[�Y[���HY��ۘܙ]���H��Y\�H�H�X��\\�X�H\�\�����[�\H�H�H�\���H�[������Yܘ\����Z\�\�B��H\���\��\�]p�]\���H�\�H����YY�[���\��]Y�\�K��H�����܈\�X�Y�X�Y�X�Y\�[�[XHH�][�H��[���0�HH��\�HXZ\��ܝH���Y[�[�Z\��8�%�H����\�H��ܛ��Y\�ܙ]�\�[�\�H�Y�Z\��H�[ܚ^�\�\�0�ܚX\��XZ\���[���8�%�[��H[��[�\��\��HH[X[�]�H��\���[�^X�]]�H]YH�]�]H�]YH�[K������[�[��Y[��\��H[��Z\�[�X�p���Y\�Hܘ]�p����Έ]\�\�0ꛙ�\�\��][��\�\H�YH��Z\��]�H�\�]]���Y�X�Y[�H8�%]Y[H\��\�H�[H�۝^�[�\�[܈�X�\�H[�[�\��H�Y[�HN��HΌ�\\�[H�\���\�H�۝�\�����8�%����\�YY�H��Z\���ۙ����HH\��]\�HX[�0�[H�][�����H�[��H\�\����\�]p�]\����Y\�[�X���[X[�[�[H�\�X\�8�%[\��\�\�HX[�\�H]Ypꛘ�XH�\��Y[�YB�H��X��\��H���[�[H[��Y�H0�H؜�Y�]0�ܚ[�8�%�H[�[H][H�[\��ܜ�Y�\�[�\�H[��Y�\�
