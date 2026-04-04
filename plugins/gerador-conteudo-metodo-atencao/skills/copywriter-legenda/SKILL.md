@@ -14,10 +14,11 @@ Escrever **legendas, posts de texto e estruturas de carrossel** que aplicam os g
 1. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos
 2. `/tmp/cerebro/skill-knowledge/metodo-atencao/5-pilares-reels.md` — pilares (aplicáveis a todo formato)
 3. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição
-4. `/tmp/cerebro/voz-e-aprendizados.md` — voz e proibições
-5. `/tmp/cerebro/banco-de-historias.md` — histórias reais
-6. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — ICP e produto
-7. `/tmp/cerebro/skill-knowledge/storytelling-analogias.md` — analogias calibradas
+4. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
+5. `/tmp/cerebro/voz-e-aprendizados.md` — voz e proibições
+6. `/tmp/cerebro/banco-de-historias.md` — histórias reais
+7. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — ICP e produto
+8. `/tmp/cerebro/skill-knowledge/storytelling-analogias.md` — analogias calibradas
 
 ## Tipos de Conteúdo Escrito
 
@@ -121,6 +122,63 @@ Sempre termina com @aliliancidreira.
 ### TikTok
 - Mesma legenda do Instagram mas ainda mais concisa
 - Foco total no gancho da primeira linha
+
+## Banco de 30 Templates de Copy
+
+O copywriter tem acesso a **30 templates de micro-estrutura narrativa** (arquivo `30-templates-copy.md`). Cada template é um esqueleto que define a abertura, o desenvolvimento e o fechamento de um conteúdo escrito.
+
+### Como Usar os Templates
+
+1. **O estrategista define o template no briefing** — se não definir, o copywriter escolhe com base no tema e nos gatilhos
+2. **Um template por conteúdo** — nunca misturar estruturas de dois templates
+3. **O template define o esqueleto, não a pele** — adaptar linguagem, exemplos e dados para o contexto
+4. **Variedade obrigatória** — nunca usar o mesmo template em dois conteúdos consecutivos no pack
+
+### Templates por Formato de Conteúdo
+
+#### Para Legendas de Reel
+Legendas são curtas (máx 150 palavras). Usar apenas templates que funcionam em texto compacto:
+- **T5/T6 (Leitura Mental)**: "Deixa eu adivinhar..." → complementa o vídeo com ângulo de identificação
+- **T11 (Solução Controversa)**: Frase contraintuitiva que reforça a tese do vídeo
+- **T16 (Você Tem? Então Pode)**: Complemento motivacional com filtro
+
+#### Para Posts de Texto (LinkedIn / Instagram)
+Posts longos (200-500 palavras). Todos os templates funcionam, mas os melhores são:
+- **T5/T6 (Leitura Mental)**: Abertura poderosa para criar conexão instantânea
+- **T3 (História que Conecta)**: Storytelling completo em texto
+- **T11 (Solução Controversa)**: Gera debate e comentários no LinkedIn
+- **T18 (A Real Diferença)**: Reframe que demonstra expertise
+- **T21 (Seguindo Autoridades)**: Pega credibilidade emprestada e se diferencia
+- **T27 (Novidade Curiosa)**: Surfa tendências com autoridade
+- **T17 (Tive uma Ideia)**: Bastidores que humanizam
+
+#### Para Carrosseis
+Carrosseis de 6-8 slides. Templates com progressão natural:
+- **T7 (Mapa do Tesouro Incompleto)**: Entrega valor real → último slide revela que falta uma peça → CTA
+- **T8 (Jeito Errado vs Certo)**: Slides comparativos lado a lado
+- **T19 (O Grande Teste)**: Cada slide = um item do teste. Alto engajamento
+- **T20 (Faça Isso ao Invés)**: Cada slide = uma substituição de hábito
+- **T23 (Lista do Sucesso)**: Cada slide = uma ação + resultado
+- **T24 (Plano Infalível)**: Slides como etapas de um plano
+- **T25 (Comparação Curiosa)**: Slide 1 = pergunta, slides 2-6 = análise, slide final = resposta
+- **TB (Não Faça Isso)**: Cada slide = um erro com consequência
+
+### Técnicas de Abertura dos Templates (Referência Rápida)
+
+| Técnica | Templates | Exemplo |
+|---|---|---|
+| **Leitura Mental** | T5, T6 | "Deixa eu adivinhar: você [descreve a situação com precisão]..." |
+| **Desafio Negativo** | T13, T26 | "Você não vai conseguir [resultado] enquanto [comportamento]." |
+| **Contraintuitivo** | T4, T11, T15 | "O melhor conselho de carreira que eu recebi foi: [algo inesperado]." |
+| **Comparação/Reframe** | T18, T25 | "Sabe a diferença entre [X] e [Y]? Não é o que você pensa." |
+| **Teste Interativo** | T19, T26 | "Teste rápido pra saber se você está pronta pra [resultado]." |
+| **Authority Borrowing** | T12, T21, T30 | "[Autoridade] diz que [X]. Mas existe algo que ela não menciona." |
+| **Trend-Riding** | T27 | "Tá todo mundo falando sobre [trend]. Eu fui investigar." |
+| **Futuro Projetado** | T22, T28 | "O que aconteceria se você fizesse [ação] por [período]?" |
+| **Bastidores** | T17, T29 | "Essa semana aconteceu algo que me deu uma ideia." |
+| **Mapa Incompleto** | T7 | "Vou te dar [valor real]. Mas tem uma parte que muda tudo." |
+
+---
 
 ## Aplicação dos Gatilhos no Texto
 
