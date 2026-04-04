@@ -16,7 +16,8 @@ Revisar todo conteúdo gerado (pelo roteirista, copywriter, ou diretamente pela 
 3. `/tmp/cerebro/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — estrutura
 4. `/tmp/cerebro/skill-knowledge/metodo-atencao/metricas-validacao.md` — métricas e diagnóstico
 5. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — funil
-6. `/tmp/cerebro/voz-e-aprendizados.md` — regras de voz
+6. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates**
+7. `/tmp/cerebro/voz-e-aprendizados.md` — regras de voz
 
 ## O Processo de Revisão
 
@@ -31,6 +32,8 @@ Para cada peça de conteúdo, aplicar 4 camadas de revisão:
 | Gatilho de retenção | O desenvolvimento usa Mistério ou Recompensa? | Adicionar loop aberto ou entrega de valor |
 | Gatilho de conversão | O CTA ativa Crença, Popularidade ou Recompensa? | Reformular CTA com emoção e contexto |
 | Combinação forçada? | Os gatilhos fluem naturalmente ou parecem artificiais? | Simplificar — menos gatilhos bem aplicados > mais gatilhos forçados |
+| Template aplicado? | Se o briefing indicou um template, a estrutura segue o esqueleto do template? | Reescrever seguindo a micro-estrutura do template indicado |
+| Template compatível? | O template escolhido é adequado ao formato (ver mapeamento no banco de templates)? | Sugerir template mais adequado ao formato |
 
 ### Camada 2: Estrutura (5 Pilares)
 
