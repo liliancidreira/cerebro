@@ -18,7 +18,8 @@ Leia antes de definir qualquer estratégia:
 3. `/tmp/cerebro/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — arquétipos de roteiro
 4. `/tmp/cerebro/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — separar formato de assunto
 5. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição de funil
-6. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — voz, ICP, proibições
+6. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
+7. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — voz, ICP, proibições
 
 ## Os 7 Gatilhos e Quando Usar Cada Um
 
@@ -75,14 +76,14 @@ Depois de definir os gatilhos, escolher o arquétipo que melhor serve o tema. Ca
 **Usar quando**: O tema polariza, separa "quem sabe" de "quem não sabe", ou desafia o comportamento da maioria.
 **Estrutura**: Declaração provocativa → Amplificação com consequência → Lista rítmica → Dados → Revelação → CTA triplo.
 **Gatilhos dominantes**: Disrupção + Reconhecimento + Crença
-**Resultado esperado**: Alta viralização por polarização, muitos comentários, alto alcance.
+**Resultado esperado**: Alta viralização por polarização, muitos comentários (concordando e discordando), alto alcance.
 **Exemplos de tema**: "2026 é o ano das pessoas chatas", "Executivos que não postam conteúdo estão mortos profissionalmente", "Parar de ser generalista é o melhor conselho que ninguém quer ouvir"
 
 ### Arquétipo 3: "O Professor"
 **Usar quando**: O tema é educativo, lista de hábitos/dicas, ou quando o objetivo é entregar valor prático imediato.
 **Estrutura**: Promessa concreta com prazo → Lista com storytelling pessoal em cada item → Último item = pivot pro nicho → Desafio + CTA condicional.
 **Gatilhos dominantes**: Recompensa + Reconhecimento + Crença
-**Resultado esperado**: Alto salvamento, alto compartilhamento, boa conversão em seguidores.
+**Resultado esperado**: Alto salvamento, alto compartilhamento, boa conversão em seguidores (porque entrega valor antes de pedir).
 **Exemplos de tema**: "7 hábitos para virar referência em 60 dias", "5 erros que executivos cometem ao sair do CLT", "O protocolo de posicionamento que eu ensino na mentoria"
 
 ### Regra de Variedade
@@ -111,6 +112,7 @@ Para cada conteúdo estrategizado:
 
 **Tema**: [tema recebido do pesquisador]
 **Arquétipo de Roteiro**: [O Revelador / O Provocador / O Professor]
+**Template de Copy sugerido**: [T1-T30 ou TB — ver banco de 30 templates]
 **Formato de gravação**: [qual formato visual]
 **Posição no funil**: [Topo / Meio]
 **Duração sugerida**: [tempo estimado]
@@ -128,6 +130,7 @@ Para cada conteúdo estrategizado:
 ### Briefing para o Roteirista
 
 - **Arquétipo**: [nome do arquétipo] — seguir a estrutura de blocos correspondente
+- **Template de Copy**: [código do template, ex: T5 Leitura Mental] — usar a micro-estrutura como esqueleto
 - **Gancho sugerido**: [frase ou conceito de abertura]
 - **Storytelling sugerido**: [qual narrativa usar — filme, história pessoal, caso real, referência cultural]
 - **Dados âncora**: [números/referências concretas para incluir]
@@ -153,7 +156,9 @@ Para cada conteúdo estrategizado:
 ## Regras
 
 - Nunca sugerir fundo de funil no feed — vendas ficam em Stories e DM
-- Variar os gatilhos E os arquétipos entre os conteúdos da semana
+- Variar os gatilhos, os arquétipos E os templates entre os conteúdos da semana
+- Nunca usar o mesmo template em dois conteúdos consecutivos no pack
+- Sempre consultar o mapeamento Template → Formato para garantir compatibilidade
 - Priorizar Disrupção + Mistério para ganchos (maior taxa de retenção)
 - Usar Crença + Popularidade para fechar (maior taxa de conversão em seguidores)
 - Quando o tema for meio de funil, reduzir Disrupção e aumentar Recompensa + Crença
