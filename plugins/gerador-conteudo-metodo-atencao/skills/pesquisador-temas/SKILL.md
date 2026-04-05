@@ -91,17 +91,76 @@ Estes são os temas com os quais todo ser humano se conecta:
 - **Tecnologia/Atualidade**: IA, ChatGPT, automação, mudanças de mercado
 - **Celebridades/Cultura pop**: eventos midiáticos, figuras públicas, polêmicas
 
-### As Dores do Avatar da Lilian (ICP)
+### Mapeamento do ICP (Completo — vem do brand-knowledge.md)
 
-Extraídas do brand-knowledge.md — executivos seniores (40-60 anos) que:
+Executivos seniores (40-60 anos). Use o mapeamento completo abaixo para cruzar com os assuntos universais:
 
-- Dependem de um único CNPJ e sabem que é arriscado
-- Têm expertise acumulada mas não sabem transformar em produto
-- Sofrem com síndrome do impostor ao pensar em cobrar pelo que sabem
-- Querem transição de carreira mas não sabem por onde começar
-- Precisam de autoridade digital e não sabem se posicionar online
-- Trabalham demais e não conseguem delegar ou escalar
-- Sentem que o mercado está mudando e podem ficar para trás
+**Dores (10 — urgências ocultas diretas):**
+- Medo de ficar irrelevante após os 40/45+
+- Dificuldade de recolocação em cargos altos
+- Sensação de estagnação após 20 anos de carreira
+- Dependência do corporativo (falta de plano B)
+- Cansaço político (lidar com CEO, cultura, pressão)
+- Falta de autonomia sobre o próprio tempo
+- Medo de perder padrão de vida
+- Síndrome do impostor ao tentar se posicionar
+- Não saber transformar conhecimento em produto
+- Insegurança em cobrar alto
+
+**Dúvidas (8 — geram tráfego qualificado):**
+- Como sair do corporativo sem perder renda?
+- Como virar mentor ou consultor?
+- Quanto cobrar por uma mentoria?
+- Como criar autoridade no LinkedIn?
+- Como vender sem parecer vendedor?
+- Como estruturar um produto high ticket?
+- Como conseguir clientes de alto nível?
+- Vale a pena sair do CLT depois dos 40?
+
+**Desejos (8 — usar em CTAs e promessas):**
+- Liberdade de agenda
+- Trabalhar com propósito
+- Ganhar mais com menos clientes
+- Ser reconhecido como autoridade
+- Construir legado
+- Ter uma marca pessoal forte
+- Ser respeitado pelo conhecimento
+- Não depender de empresa
+
+**Urgências Ocultas Inusitadas (8 — ouro para conteúdo disruptivo):**
+- Aposentadoria insegura mesmo com salário alto
+- Filhos em escola cara (manter padrão)
+- Divórcio / recomeço de vida
+- Burnout silencioso de executivos
+- Vazio pós-carreira (perda de identidade)
+- Comparação com ex-colegas que "avançaram"
+- Medo de virar "consultor barato"
+- Crise de propósito após sucesso financeiro
+
+**Urgências Ocultas Quentes (7 — meio/fundo de funil):**
+- "Fui desligado e não sei o próximo passo"
+- "Quero virar mentor mas não sei por onde começar"
+- "Tenho conhecimento mas não sei monetizar"
+- "Quero cobrar caro mas não tenho posicionamento"
+- "Preciso de clientes high ticket"
+- "Quero sair do corporativo ainda esse ano"
+- "Já tentei sozinho e não deu certo"
+
+**Urgências Ocultas Frias (6 — topo de funil amplo):**
+- Como melhorar perfil no LinkedIn
+- Como falar melhor em reuniões
+- Como ganhar visibilidade no trabalho
+- Como pedir aumento
+- Como ser promovido
+- Como fazer networking
+
+**Temperatura → Uso no Conteúdo:**
+| Temperatura | Tipo de Conteúdo | Objetivo |
+|---|---|---|
+| Fria | Urgências frias, assuntos relacionados | Atrair volume |
+| Morna | Dúvidas, dores emocionais | Gerar leads |
+| Quente | Urgências quentes, desejos | Gerar DMs |
+| Conversão | Urgências quentes + desejos + prova social | Fechar Mentoria Signature |
 
 ### O Cruzamento (Fórmula)
 
