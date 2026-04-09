@@ -37,10 +37,15 @@ A skill lê este arquivo antes de gerar qualquer conteúdo.
 - Fundou a Future Minds Consultoria em 2016
 - Primeiro período: insegurança sobre quanto cobrar, descoberta de que o mercado pagava mais do que ela imaginava
 
-**O primeiro cliente de mentoria**
-- Insegurança inicial ao cobrar — sensação de "será que isso vale mesmo?"
-- O mercado respondeu: pagou. E pediu mais.
-- Insight: o problema nunca foi a competência — foi a falta de estrutura de produto
+**A primeira proposta de mentoria — o tremor que virou virada (2016)**
+- Saiu do último emprego corporativo em 2016, depois de quase uma década em RH Executivo
+- Começou a montar a Future Minds ainda sem saber quanto cobrar pelo próprio trabalho
+- A primeira proposta de mentoria: enviou tremendo, com medo de ser alto demais
+- O cliente aceitou sem piscar. E pediu mais.
+- Insight que virou a base do método dela: o problema nunca foi a competência — foi a falta de estrutura de produto
+- Desde aquele dia, o trabalho da Lilian é construir essa estrutura para quem está no mesmo lugar onde ela estava antes da primeira proposta
+- FRASE-CHAVE PARA CONTEÚDO: "Lembro de enviar a proposta tremendo, com medo de ser alto demais. O cliente aceitou sem piscar."
+- USADA EM: Post LinkedIn 2026-04-09 (síndrome do impostor → mercado não valoriza)
 
 **O resultado como prova**
 - 10 anos no mercado de mentoria e consultoria
@@ -187,4 +192,5 @@ DATA DE COLETA: 2026-03-28
 | 2026-03-28 | Aluno | Médica demitida → contrato hospitalar + programa próprio em 3 meses | Post LinkedIn 2026-03-28 |
 | 2026-03-28 | Padrão | Executivos de grandes empresas crescem sem construir saída | Post LinkedIn 2026-03-28 |
 | 2026-04-04 | Lead | Executivo varejo 57a, perdido após sair do corporativo | Reel 2026-04-04 |
+| 2026-04-09 | Trajetória | Primeira proposta tremendo (2016) — tremor virou virada | Post LinkedIn 2026-04-09 |
 
