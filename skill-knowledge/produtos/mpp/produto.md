@@ -11,6 +11,7 @@ Kit de templates prontos (e-mails, relatórios, apresentações e guias de reuni
 - **Formato:** Kit de templates editáveis (Google Docs / Canva)
 - **Plataforma de venda:** Hotmart
 - **Garantia:** 7 dias incondicional
+- **Preço:** R$97
 - **Acesso:** Imediato após compra
 - **URL:** https://www.mprofissionalpromovido.com.br/
 
