@@ -55,7 +55,78 @@ A skill lê este arquivo antes de gerar qualquer conteúdo.
 
 ### Histórias detalhadas coletadas em entrevista
 
-*[A ser preenchido nas próximas sessões de entrevista]*
+---
+
+**HISTÓRIA 01 — "A profecia do consultor que ela contratava há anos" (2016)**
+*Coletada em: 2026-04-09 | Ângulo: Liberdade/Identidade + Síndrome do Impostor Sênior*
+
+CENA:
+Ano de 2016, meio da Operação Lava-Jato. Lilian recém-demitida do último emprego corporativo. Quando começou a comunicar às pessoas que ia montar uma empresa de mentoria e consultoria, ninguém apoiou. As frases que ela ouviu:
+- "Estamos em crise por conta da operação"
+- "Ninguém vai querer investir agora — quem tem dinheiro está guardando e quem não tem, não consegue pagar"
+- "Empresas só contratam consultorias grandes"
+- E a mais pesada, vinda de um consultor que ela contratava há anos: **"Lilian, você estará no grupo de consultores que são muito pequenos e nunca será relevante."**
+
+INSIGHT DA LILIAN (frase dela, literal):
+> "As pessoas com o medo delas tentam colocar em você as situações que elas não têm coragem de fazer."
+
+USO RECOMENDADO: Reel Arquétipo 1 (Eu estava lá). Gancho forte pela frase do consultor. Conecta com Síndrome do Impostor Sênior porque mostra que o impostor não é só interno — é reforçado por autoridades externas que projetam o próprio medo.
+
+---
+
+**HISTÓRIA 02 — "A demissão que virou rótulo de incompetência"**
+*Coletada em: 2026-04-09 | Ângulo: Liberdade/Identidade (Virada de autoimagem)*
+
+CENA:
+Depois da demissão do último emprego, Lilian começou a achar que não era competente — "como se eu tivesse apagado todos os anos e a minha trajetória em todas as empresas anteriores." Internalizou a demissão como erro pessoal, não como resultado de um momento da empresa dentro da Lava-Jato.
+
+COMPLICAÇÃO:
+Quando resolveu que ia empreender de verdade, teve que lidar com um padrão comum do mercado: pessoas demitidas abrem "empresa" só para não parecer desempregadas. Ela começou a receber ligações para processos seletivos, convites para voltar à CLT. Precisava provar — para o mercado e para ela mesma — que o movimento era intencional, não um disfarce de transição.
+
+VIRADA:
+Criar uma **identidade de autoridade** foi o que distinguiu "ex-executiva esperando recolocação" de "Lilian Cidreira, empresária". A identidade veio antes do resultado — ela teve que se posicionar como autoridade antes do mercado validar.
+
+USO RECOMENDADO: Ponte entre "quem eu era" (executiva demitida) e "quem eu sou" (autoridade). Linguagem-chave: "movimento provisório vs. movimento intencional".
+
+---
+
+**HISTÓRIA 03 — "A vergonha de vender e o 'não levaríamos sua proposta adiante'"**
+*Coletada em: 2026-04-09 | Ângulo: Síndrome do Impostor Sênior + Posicionamento*
+
+CENA (o detalhe que ela não contava):
+No início, Lilian tinha vergonha de vender. Achava "feio" ou que estava "importunando" a pessoa. Essa crença travou a precificação e o posicionamento no primeiro período.
+
+PONTO DE VIRADA:
+Uma empresa específica disse para ela: **"Só contratamos consultorias grandes. Não levaríamos uma proposta sua adiante."** Nesse momento ela entendeu: "eu não estava me posicionando do jeito que era realmente merecedor da minha história."
+
+A MUDANÇA DE MENTALIDADE:
+"Vender era um ato nobre da minha parte" — não importunação. Ela migrou de "tenho vergonha de cobrar" para "cobro o quanto mereço".
+
+USO RECOMENDADO: Virada/payoff de Reel. Tem um vilão externo (a empresa que recusou) e uma mudança interna mensurável.
+
+---
+
+**HISTÓRIA 04 — "O inventário da singularidade" (argumento de autoridade)**
+*Coletada em: 2026-04-09 | Ângulo: Liberdade/Identidade (Apropriação do próprio valor)*
+
+INSIGHT CENTRAL (frase dela, literal):
+> "O que eu vivi, só eu vivi. Então não existem duas Lilians."
+
+INVENTÁRIO DETALHADO:
+- Aos 25 anos virou coordenadora reportando para uma Diretora
+- Teve burnout porque estava fugindo do plano de carreira original dela que era empreender
+- Passou por 4 grandes empresas liderando equipes mais velhas que ela
+- Virou gerente aos 29 anos
+- Trouxe de Houston e da Colômbia projetos para o Brasil
+- Montou o "RH que Inspira" — evento para 400 pessoas em 2019 **sem usar marketing digital**
+- Foi entrevistada pelo Jornal Nacional (Globo)
+- Atendeu mais de 40 grandes empresas (Coca-Cola, Itaú, Petrobras, Natura, Globo, Deloitte, Nestlé, Vale, Santander, Michelin, Mercado Livre, Bayer, Accenture, SHEIN e tantas outras)
+- **10 anos de negócio sem nunca quebrar, mesmo passando por uma pandemia**
+
+FRASE DE FECHAMENTO (dela, literal):
+> "Quando me apropriei de que eu poderia ajudar muita gente e muita empresa com o meu conhecimento, as coisas começaram a virar ao meu favor."
+
+USO RECOMENDADO: Prova de singularidade que sustenta argumento de autoridade. A frase "não existem duas [NOME]" é adaptável para o ICP: "o que você viveu, só você viveu".
 
 ---
 
@@ -192,5 +263,6 @@ DATA DE COLETA: 2026-03-28
 | 2026-03-28 | Aluno | Médica demitida → contrato hospitalar + programa próprio em 3 meses | Post LinkedIn 2026-03-28 |
 | 2026-03-28 | Padrão | Executivos de grandes empresas crescem sem construir saída | Post LinkedIn 2026-03-28 |
 | 2026-04-04 | Lead | Executivo varejo 57a, perdido após sair do corporativo | Reel 2026-04-04 |
+| 2026-04-09 | Trajetória | 4 histórias da transição 2016 (consultor, rótulo, vergonha de vender, inventário) | Reel Signature 2026-04-09 |
 | 2026-04-09 | Trajetória | Primeira proposta tremendo (2016) — tremor virou virada | Post LinkedIn 2026-04-09 |
 
