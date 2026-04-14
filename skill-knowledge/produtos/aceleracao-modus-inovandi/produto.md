@@ -125,7 +125,10 @@ O MPP é o kit de entrada (templates e ferramentas prontas para começar). A Ace
 ### vs. Mentoria Signature (High-ticket, individual)
 A Signature é mentoria 1:1 com a Lilian, com acompanhamento individual profundo. A Aceleração oferece o mesmo método (P.O.D.E.R.) em formato de grupo, com custo mais acessível e a vantagem do aprendizado coletivo.
 
-**Escada de valor:** MPP (front-end, R$97) → Aceleração Modus Inovandi (mid-ticket, 12x R$2.200 ou 12x R$1.300) → Mentoria Signature (high-ticket, individual)
+**Escada de valor completa:** MPP (front-end, R$97) → Método P.O.D.E.R. (curso standalone, R$997/R$1.497) → Aceleração Modus Inovandi (mid-ticket, 12x R$2.200 ou 12x R$1.300) → Mentoria Signature (high-ticket, individual)
+
+### vs. Método P.O.D.E.R. (Curso Standalone) — R$997/R$1.497
+O Método é o curso com as ~40 aulas dos 5 pilares, sem acompanhamento ao vivo, sem comunidade, sem bônus de LinkedIn e sem evento presencial. Serve para quem quer autoestudo no próprio ritmo. A Aceleração entrega o mesmo método mais todos esses extras — acompanhamento, comunidade, bônus e evento — para quem quer resultado mais rápido e apoio contínuo. Alunos do Método que fazem upgrade para a Aceleração são ICP quente do ecossistema.
 
 ## Provas Sociais
 
