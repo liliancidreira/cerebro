@@ -6,14 +6,51 @@
 ## Definição
 Kit de templates prontos (e-mails, relatórios, apresentações e guias de reunião) que ensinam o profissional a se comunicar na "língua da liderança" — desenvolvidos a partir da vivência com Diretores e CEOs de grandes empresas. Não é curso. É material para aplicar imediatamente.
 
+## Foco Principal
+Captação de entrada do ecossistema — entregar ferramentas prontas para aplicar hoje, qualificar o ICP e criar o primeiro vínculo comercial. Porta de entrada estratégica para conduzir o aluno ao Método P.O.D.E.R. e, depois, à Aceleração Modus Inovandi.
+
 ## Tipo de Produto
 - **Categoria:** Produto digital de entrada (front-end / low ticket)
-- **Formato:** Kit de templates editáveis (Google Docs / Canva)
+- **Formato:** Kit de templates editáveis (Google Docs / Canva — modelos de apresentação ficam no Canva para copiar)
 - **Plataforma de venda:** Hotmart
+- **Plataforma de entrega:** Área de membros própria + Canva (para os modelos de apresentação)
 - **Garantia:** 7 dias incondicional
-- **Preço:** R$97
 - **Acesso:** Imediato após compra
-- **URL:** https://www.mprofissionalpromovido.com.br/
+- **URL do site:** https://www.mprofissionalpromovido.com.br/
+- **Checkout:** https://pay.hotmart.com/Q101125414U?off=ycyo7irw
+
+## Preço e Parcelamento
+- **À vista:** R$97
+- **Parcelamento (com juros):**
+  - 1x R$97,00
+  - 2x R$51,79
+  - 3x R$35,28
+  - 4x R$27,03
+  - 5x R$22,09
+  - 6x R$18,80
+  - 7x R$16,46
+  - 8x R$14,70
+  - 9x R$13,34
+  - 10x R$12,25
+  - 11x R$11,37
+  - 12x R$10,63
+
+## Orderbumps Ativos no Checkout
+No checkout do MPP há 3 orderbumps disponíveis:
+
+### 1. MiniKit: 3 Passos Para Provocar Sua Promoção
+- **De R$70,13 por R$37,00** (47% de desconto)
+- Copy: "A sequência estratégica usada pelos profissionais bem-sucedidos, que já gerou mais de 4 Milhões de Reais em aumentos salariais. Você terá acesso à sequência exata para conduzir o seu pedido de promoção com a Alta Gestão."
+
+### 2. Livro digital: Código LinkedIn
+- **De R$48,89 por R$27,00** (45% de desconto)
+- Copy: "Enquanto você lê isso, recrutadores estão buscando profissionais com o seu perfil. Se você não aparece nas buscas, simplesmente não existe para eles. O Livro Digital Código LinkedIn te ensina o passo a passo para transformar seu perfil em um imã de convites mesmo que você não esteja procurando ativamente."
+
+### 3. Manual Profissional Desejado
+- **De R$119,22 por R$37,00** (69% de desconto)
+- Copy: "Com esse conjunto de scripts, rotinas e checklist, você usa o LinkedIn de forma estratégica com o objetivo de atrair recrutadores de grandes empresas por meio das suas publicações, relacionamento e networking."
+
+**Ticket médio potencial com orderbumps:** R$97 (MPP) + até R$101 (3 orderbumps) = até R$198 por pedido.
 
 ## Headline Principal
 Aplique o Manual Profissional Promovido e comece a ser reconhecido na sua empresa ainda hoje.
