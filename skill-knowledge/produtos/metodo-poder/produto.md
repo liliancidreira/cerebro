@@ -10,11 +10,11 @@ Curso digital standalone que entrega os 5 pilares do Método P.O.D.E.R. — a me
 "Método P.O.D.E.R. — a estratégia para você nunca mais ser um profissional estagnado na carreira."
 
 ## Foco Principal
-Profundidade metodológica em autoestudo — entregar os 5 pilares do Método P.O.D.E.R. em quase 40 aulas práticas para quem quer autonomia no próprio ritmo. Estrategicamente posicionado para conduzir o aluno ao upgrade para a Aceleração Modus Inovandi, onde ele ganha grupo, comunidade, mentoria ao vivo e bônus.
+Profundidade metodológica em autoestudo — entregar os 5 pilares do Método P.O.D.E.R. em 31 aulas + 26+ ferramentas práticas para quem quer autonomia no próprio ritmo. Estrategicamente posicionado para conduzir o aluno ao upgrade para a Aceleração Modus Inovandi, onde ele ganha grupo, comunidade, mentoria ao vivo e bônus.
 
 ## Tipo de Produto
 - **Categoria:** Curso digital standalone (mid-low ticket)
-- **Formato:** Aulas gravadas (quase 40 aulas práticas ao total)
+- **Formato:** Aulas gravadas (31 aulas + 26+ ferramentas práticas ao total)
 - **Plataforma de venda:** Hotmart
 - **Plataforma de entrega:** Área de membros própria (Future Minds)
 - **Garantia:** 7 dias incondicional
@@ -89,11 +89,31 @@ No momento o checkout do Método P.O.D.E.R. ainda não tem orderbumps ativos. O 
 - Ter comunicação executiva com pessoas estratégicas da empresa
 - Receber reconhecimento pelo trabalho executado
 
+## Estrutura Completa do Curso (31 aulas)
+
+- **Introdução** (4 aulas) — Contextualização + Contrato de Compromisso Estratégico
+- **P — Plano de Carreira Pessoal** (7 aulas) — Ferramentas: Linha do Tempo Estratégica, Matriz de Motivação Real, Mapa de Sabotadores × Impacto Político, Mapa de Viabilidade, Mapa de Compatibilidade × Estilo de Empresa, Leitura Guiada de Perfil Comportamental, definição do PCP + Meta SMART
+- **O — Oportunidades Estratégicas** (6 aulas) — Ferramentas: Critérios de Oportunidade Estratégica, Filtro de Coerência de Carreira, **Radar de Necessidades Estratégicas**, Mapa de Validação da Necessidade, **Canvas do Projeto Autoral**, Plano de Execução do Projeto Autoral
+- **D — Destaque para Alta Gestão** (5 aulas) — Ferramentas: Checklist de Valor para Alta Gestão, Mapa de Exposição Estratégica de Resultados, Mapa de Adaptação de Comunicação, Roteiro de Apresentação Executiva (até 10 slides), O que NÃO apresentar
+- **E — Estratégia de Identidade** (3 aulas) — Ferramentas: Mapa da Impressão Digital Corporativa, Matriz de Diferenciação Profissional, Estrutura de Narrativa de Valor
+- **R — Relevância Externa** (5 aulas) — Ferramentas: Canvas de Relevância Externa, Plano de Comunicação Estratégica, Checklist de Posicionamento em Momentos-Chave
+- **Conclusão** (1 aula) — Ciclo de Revisão Estratégica de Carreira (método é cíclico)
+
+**Total:** 31 aulas + 26+ ferramentas proprietárias.
+
+## Conceitos Proprietários do Método
+
+- **Projeto Autoral** — output central do pilar O. Não é "fazer mais do mesmo"; é construir algo que não foi pedido mas gera valor visível pra empresa. Diferencia quem cresce de quem executa.
+- **Sabotadores Emocionais × Impacto Político** — padrões de comportamento (agradar, calar, trabalhar demais, evitar, controlar) que travam decisões sob pressão. O método **gerencia impacto**, não tenta eliminar o sabotador.
+- **Radar de Necessidades Estratégicas** — framework para enxergar onde a empresa perde valor e ninguém está resolvendo. Base do Projeto Autoral.
+- **Impressão Digital Corporativa (IDC)** — conjunto único de diferenciais que torna o profissional incomparável. É o pilar E inteiro.
+- **Relevância Externa como segurança** — não é só marca pessoal; é o que garante continuidade profissional em layoff, reestruturação ou troca de gestor.
+
 ## Conceito Proprietário — Impressão Digital Corporativa
 Metodologia baseada em estudos científicos e na experiência de campo da Lilian Cidreira dentro de grandes organizações. Resultado comprovado: +R$3,5 milhões em aumentos salariais gerados desde 2022 até o momento.
 
 ## O Que Está Incluso
-- **Os 5 pilares do Método P.O.D.E.R.** destrinchados em quase 40 aulas práticas
+- **Os 5 pilares do Método P.O.D.E.R.** destrinchados em 31 aulas + 26+ ferramentas práticas
 - **Área de membros própria (Future Minds)** com acesso por 1 ano
 - **Acesso imediato após a compra**
 
@@ -125,7 +145,7 @@ Entregar ao profissional CLT a estratégia completa — os 5 pilares do Método 
 
 ### Escada de Valor Completa
 1. **MPP — R$97** (front-end/low-ticket): Kit de templates prontos para começar hoje
-2. **Método P.O.D.E.R. — R$997/R$1.497** (mid-low ticket, curso standalone): A metodologia completa em ~40 aulas
+2. **Método P.O.D.E.R. — R$997/R$1.497** (mid-low ticket, curso standalone): A metodologia completa em 31 aulas + 26+ ferramentas
 3. **Aceleração Modus Inovandi — 12x R$2.200 ou 12x R$1.300** (mid-ticket, grupo): Método + mentoria ao vivo + comunidade + evento + bônus LinkedIn + agente IA
 4. **Mentoria Signature** (high-ticket, individual): Acompanhamento 1:1 profundo com a Lilian
 
@@ -138,7 +158,7 @@ Entregar ao profissional CLT a estratégia completa — os 5 pilares do Método 
 ### Diferença Prática — Método P.O.D.E.R. vs. Aceleração
 | Item | Método P.O.D.E.R. | Aceleração Modus Inovandi |
 |---|---|---|
-| Acesso às aulas do método | Sim (~40 aulas) | Sim |
+| Acesso às aulas do método | Sim (31 aulas + 26+ ferramentas) | Sim |
 | Mentoria ao vivo 2x/mês | Não | Sim |
 | Comunidade exclusiva | Não | Sim |
 | Evento presencial anual | Não | Sim |
@@ -177,7 +197,7 @@ Todas as provas sociais do universo P.O.D.E.R. são aplicáveis (já que o méto
 Para qualquer profissional que busca uma estratégia para nunca ser um profissional estagnado na carreira. Serve tanto para quem está buscando promoção quanto para quem quer se reposicionar ou trocar de empresa com maior valor.
 
 **Qual a diferença entre o Método e a Aceleração Modus Inovandi?**
-O Método é o curso standalone — só as aulas do framework P.O.D.E.R. (quase 40 aulas). A Aceleração inclui o mesmo conteúdo + mentoria ao vivo 2x/mês + comunidade + evento presencial + bônus LinkedIn + agente IA, com acompanhamento contínuo.
+O Método é o curso standalone — só as aulas do framework P.O.D.E.R. (31 aulas + 26+ ferramentas). A Aceleração inclui o mesmo conteúdo + mentoria ao vivo 2x/mês + comunidade + evento presencial + bônus LinkedIn + agente IA, com acompanhamento contínuo.
 
 **Por que tem dois preços?**
 R$997 é o preço especial para quem já é aluno (MPP, Aceleração, Signature, ex-mentorados) — reconhecendo a confiança já estabelecida. R$1.497 é o preço para quem ainda não é aluno.
