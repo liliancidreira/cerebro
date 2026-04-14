@@ -49,10 +49,18 @@ Aceleração de resultado com apoio em grupo — entregar o Método P.O.D.E.R. +
 ## Conceito Proprietário — Impressão Digital Corporativa
 Metodologia baseada em estudos científicos e na experiência de campo da Lilian Cidreira dentro de grandes organizações. Resultado comprovado: +R$3.5 milhões em aumentos salariais gerados desde 2022 até o momento.
 
+## Conceitos Proprietários da Metodologia
+
+- **Projeto Autoral** — output central do pilar O. Construir algo que não foi pedido mas gera valor visível para a empresa. Diferencia quem cresce de quem executa.
+- **Sabotadores Emocionais × Impacto Político** — padrões de comportamento (agradar, calar, trabalhar demais, evitar, controlar) que travam decisões sob pressão. O método **gerencia impacto**, não tenta eliminar o sabotador.
+- **Radar de Necessidades Estratégicas** — framework para enxergar onde a empresa perde valor e ninguém está resolvendo. Base do Projeto Autoral.
+- **Impressão Digital Corporativa (IDC)** — conjunto único de diferenciais que torna o profissional incomparável. É o pilar E inteiro.
+- **Relevância Externa como segurança** — não é só marca pessoal; é o que garante continuidade profissional em layoff, reestruturação ou troca de gestor.
+
 ## O Que Está Incluso
 
 ### 1. Metodologia Própria (Método P.O.D.E.R.)
-Acesso imediato à Formação Modus Inovandi com 9+ encontros gravados:
+Acesso imediato à **Formação Modus Inovandi** — Método P.O.D.E.R. completo com **31 aulas + 26+ ferramentas proprietárias**:
 - Encontro 01: Métricas
 - Encontro 02: Carta de Apresentação
 - Encontro 03: Sobre e Resumo
