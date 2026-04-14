@@ -9,6 +9,27 @@ Programa exclusivo de mentoria individual para profissionais bem-sucedidos que q
 ## Headline Principal
 Pare de depender do mundo corporativo e construa uma nova fonte de renda com o que você já sabe
 
+## Foco Principal
+Transformação premium personalizada — acompanhamento 1:1 (ou cadeira dupla) com a Lilian Cidreira para profissionais bem-sucedidos que querem monetizar décadas de experiência corporativa em um negócio premium, lucrativo e independente. Topo da escada de valor: proximidade direta, estratégia 100% sob medida e aprofundamento máximo para construir uma nova fonte de renda baseada no próprio conhecimento.
+
+## Tipo de Produto
+- **Categoria:** Mentoria individual premium (high-ticket)
+- **Formato:** Acompanhamento 1:1 com a Lilian Cidreira (cadeira única) ou 2 pessoas na mesma mentoria (cadeira dupla)
+- **Público-alvo:** Profissionais bem-sucedidos, executivos e ex-CLT que querem construir negócio próprio baseado em experiência
+- **Posição no ecossistema:** Topo da escada de valor — para quem busca máxima customização e proximidade com a Lilian
+
+## Preço e Parcelamento
+
+### Cadeira Única (individual — 1:1 com a Lilian)
+- **À vista:** R$60.000
+- **Parcelado:** 12x R$5.800
+
+### Cadeira Dupla (2 pessoas na mesma mentoria)
+- **À vista:** R$90.000
+- **Parcelado:** 12x R$8.700
+
+**Observação:** A cadeira dupla permite que duas pessoas (sócias, colegas ou parceiros de projeto) participem juntas da mesma mentoria, dividindo o investimento e potencializando discussões e estratégias conjuntas.
+
 ## O que a Mentoria Signature entrega
 
 - Criar renda com sua experiência executiva
