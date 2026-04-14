@@ -213,3 +213,46 @@ Usar depoimentos de mentalidade/posicionamento: "aprendi a me posicionar", "me d
 - "27 depoimentos em vídeo de profissionais que transformaram suas carreiras"
 - "De 25% a 1.000% de aumento: os números falam por si"
 - "Promoções, recolocações e carreiras internacionais — tudo documentado em vídeo"
+
+---
+
+## Depoimentos Completos 2024 (Google Drive)
+
+**Fonte:** Pasta "ESTRATEGISTA QUE INSPIRA (DEPOIMENTOS) / 2024" no Google Drive
+**Total:** 10 depoimentos em vídeo (gravações completas)
+**Período:** 2024
+
+### Estratégistas Documentados
+
+| # | Nome Completo | Também na Playlist YouTube? | Resultado Conhecido |
+|---|---|---|---|
+| 1 | **Raquel Martins** | Não (exclusivo Drive) | A ser documentado |
+| 2 | **Victor Chequer** | Sim — "Sonho da Carreira Internacional realizado" | Carreira internacional |
+| 3 | **Marcel Gavioli** | Sim — "+40% de aumento" | +40% aumento salarial |
+| 4 | **Eliane Batista** | Não (exclusivo Drive) | A ser documentado |
+| 5 | **Taís Lima** | Não (exclusivo Drive) | A ser documentado |
+| 6 | **Carla Salles** | Sim — "Diretor a convidou para mudar de área" | Convidada pelo Diretor + salário R$14.500 |
+| 7 | **Jessica Dias** | Não (exclusivo Drive, gravado 28/08/2024) | A ser documentado |
+| 8 | **Ariana Teixeira** | Sim — "Promovida a Gerente na empresa familiar" | Promoção a Gerente |
+| 9 | **Bárbara Galli** | Não (exclusivo Drive) | A ser documentado |
+| 10 | **Emily (Lucas)** | Sim — "Mudança de emprego para posição LATAM" | Posição LATAM |
+
+### Cortes Editados Disponíveis
+
+**Pasta CORTES:**
+- "A revolução do sucesso financeiro: Conquiste cadeiras maiores na sua carreira" (50,1 MB)
+- "Alcance seus objetivos profissionais com a mentoria de Carla" (93,2 MB)
+
+**Pasta Para YouTube:**
+- Depoimento Carla Salles (editado para publicação)
+- Depoimento Taís Lima (editado para publicação)
+
+### Nomes Novos (Exclusivos do Drive — Sem Detalhes Ainda)
+Estes 5 nomes têm depoimento completo gravado mas ainda não foram publicados no YouTube e não têm detalhes documentados:
+1. **Raquel Martins** — pendente de documentação
+2. **Eliane Batista** — pendente de documentação
+3. **Taís Lima** — pendente de documentação (corte editado já existe)
+4. **Jessica Dias** — pendente de documentação (gravado 28/ago/2024)
+5. **Bárbara Galli** — pendente de documentação
+
+> **Nota:** Para enriquecer esses registros, será necessário assistir aos vídeos e documentar: perfil profissional, resultado concreto, frase-chave do depoimento e contexto da transformação.
