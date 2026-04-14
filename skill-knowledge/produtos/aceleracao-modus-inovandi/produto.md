@@ -9,6 +9,9 @@ Programa de aceleração em grupo que transforma profissionais CLT em estrategis
 ## Headline Principal
 "O passo para você se tornar Estrategista da Própria Carreira e ganhar o salário que reconhece o seu potencial."
 
+## Foco Principal
+Aceleração de resultado com apoio em grupo — entregar o Método P.O.D.E.R. + acompanhamento ao vivo 2x/mês + comunidade + evento presencial + bônus LinkedIn + agente IA. É o produto de receita principal do ecossistema, onde a aluna ganha velocidade, rede e apoio contínuo para transformar a carreira.
+
 ## Tipo de Produto
 - **Formato:** Programa de aceleração em grupo (mentoria coletiva)
 - **Ticket:** Mid-ticket
