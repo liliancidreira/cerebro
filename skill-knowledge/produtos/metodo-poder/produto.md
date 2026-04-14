@@ -9,19 +9,58 @@ Curso digital standalone que entrega os 5 pilares do Método P.O.D.E.R. — a me
 ## Headline Principal
 "Método P.O.D.E.R. — a estratégia para você nunca mais ser um profissional estagnado na carreira."
 
+## Foco Principal
+Profundidade metodológica em autoestudo — entregar os 5 pilares do Método P.O.D.E.R. em quase 40 aulas práticas para quem quer autonomia no próprio ritmo. Estrategicamente posicionado para conduzir o aluno ao upgrade para a Aceleração Modus Inovandi, onde ele ganha grupo, comunidade, mentoria ao vivo e bônus.
+
 ## Tipo de Produto
 - **Categoria:** Curso digital standalone (mid-low ticket)
 - **Formato:** Aulas gravadas (quase 40 aulas práticas ao total)
+- **Plataforma de venda:** Hotmart
 - **Plataforma de entrega:** Área de membros própria (Future Minds)
 - **Garantia:** 7 dias incondicional
 - **Acesso:** 1 ano (365 dias a partir da compra)
-- **Posição no ecossistema:** Produto de entrada/consideração — entre o MPP (R$97, front-end) e a Aceleração Modus Inovandi (mid-ticket, acompanhamento em grupo)
+- **Posição no ecossistema:** Produto de profundidade metodológica — entre o MPP (R$97, front-end) e a Aceleração Modus Inovandi (mid-ticket, acompanhamento em grupo)
 
-## Preço
-- **R$1.497** — Para novos alunos (ainda não comprou nenhum produto da Lilian)
-- **R$997** — Para alunos de outros programas (MPP, Aceleração Modus Inovandi, Mentoria Signature, ex-mentorados)
+## Preço e Parcelamento
+
+### R$1.497 — Novos alunos (não comprou nenhum produto da Lilian)
+- **Checkout:** https://pay.hotmart.com/T102213250O?off=3yfibtri
+- **À vista:** R$1.497,00
+- **Parcelamento (com juros):**
+  - 1x R$1.497,00
+  - 2x R$799,28
+  - 3x R$544,47
+  - 4x R$417,18
+  - 5x R$340,91
+  - 6x R$290,14
+  - 7x R$253,95
+  - 8x R$226,87
+  - 9x R$205,86
+  - 10x R$189,10
+  - 11x R$175,43
+  - 12x R$164,08
+
+### R$997 — Alunos de outros programas (MPP, Aceleração, Signature ou ex-mentorados)
+- **Checkout:** https://pay.hotmart.com/T102213250O?off=g2jpq6nk
+- **À vista:** R$997,00
+- **Parcelamento (com juros):**
+  - 1x R$997,00
+  - 2x R$532,32
+  - 3x R$362,61
+  - 4x R$277,84
+  - 5x R$227,04
+  - 6x R$193,23
+  - 7x R$169,13
+  - 8x R$151,09
+  - 9x R$137,10
+  - 10x R$125,94
+  - 11x R$116,83
+  - 12x R$109,27
 
 **Diferença de R$500** para premiar quem já confia no ecossistema e incentivar novos alunos a começar pelo MPP (R$97) e depois subir para o Método com desconto.
+
+## Orderbumps (Planejados)
+No momento o checkout do Método P.O.D.E.R. ainda não tem orderbumps ativos. O plano é usar o MPP + os 3 orderbumps do MPP (MiniKit "3 Passos Para Provocar Sua Promoção", Livro Digital "Código LinkedIn", Manual Profissional Desejado) como orderbumps do Método, elevando o ticket médio e entregando mais valor na primeira compra.
 
 ## Metodologia — Os 5 Pilares do Método P.O.D.E.R.
 
