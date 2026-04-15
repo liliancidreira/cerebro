@@ -26,19 +26,31 @@ A skill lê este arquivo antes de gerar qualquer conteúdo.
 - O crescimento acelerado criou uma armadilha: quanto mais subia, mais difícil largar
 - O medo de perder o que estava funcionando foi paralisando o desejo de empreender
 
-**O burnout de 2011**
+**O burnout de 2011 — 25 anos, Coordenadora**
+- Em 2011 Lilian tinha 25 anos e já era Coordenadora — chegou ali mais rápido do que imaginava
+- Estava em empresa que gostava, com cargo que gostava, com reconhecimento de quem trabalhava com ela
+- Por fora parecia que tudo estava no lugar. Por dentro, exausta de um jeito que descanso não resolvia
+- Demorou pra entender que a exaustão não era sobre quantidade de trabalho — era sobre direção
+- A infelicidade tinha a ver com sempre ter querido empreender e estar ignorando esse desejo em nome da próxima promoção, do próximo aumento, da "estabilidade" que já tinha e tinha medo de perder
 - Ponto de inflexão: percebeu que estava trocando o desejo de empreender por segurança corporativa
-- Clareza sobre o caminho: educação — custo operacional baixo no início, impacto real
-- Foi quando decidiu que a saída seria construir algo próprio baseado em conhecimento
 
-**A demissão de 2016 — a libertação**
-- Demitida do último emprego corporativo
+**Os três medos que paralisavam o movimento de empreender (2011)**
+Toda vez que Lilian sentava pra pensar em dar o passo, os medos chegavam em fila:
+1. O medo de ouvir "não vai dar certo" — que muita gente ao redor já repetia antes mesmo dela decidir
+2. O medo de não conseguir, de fato, contribuir com o resultado das pessoas que eventualmente pagariam pelo trabalho dela
+3. O medo de não saber em que momento o que ela faria por conta própria superaria, em dinheiro, o salário estável que já tinha na CLT
+
+*Uso em conteúdo:* esses três medos funcionam tanto como bastidor da Lilian (2011) quanto como ponte pro ICP (executivos 40+ hoje vivem versões equivalentes desses mesmos medos).
+
+**A demissão de 2015 — a libertação**
+- Demitida do último emprego corporativo em 2015
+- Saiu do último emprego corporativo em 2015, depois de quase uma década em RH Executivo
 - Não encarou como crise: encarou como a oportunidade que estava esperando
 - Fundou a Future Minds Consultoria em 2016
 - Primeiro período: insegurança sobre quanto cobrar, descoberta de que o mercado pagava mais do que ela imaginava
 
 **A primeira proposta de mentoria — o tremor que virou virada (2016)**
-- Saiu do último emprego corporativo em 2016, depois de quase uma década em RH Executivo
+- Saiu do último emprego corporativo em 2015, depois de quase uma década em RH Executivo
 - Começou a montar a Future Minds ainda sem saber quanto cobrar pelo próprio trabalho
 - A primeira proposta de mentoria: enviou tremendo, com medo de ser alto demais
 - O cliente aceitou sem piscar. E pediu mais.
@@ -149,7 +161,7 @@ USO: Reel Arquétipo 1 (Revelador) ou carrossel sobre propósito. Gatilhos: Cren
 
 ```
 CENA: Em 2011, Lilian montou um plano de saída de 5 anos do corporativo. Meta ambiciosa: sair e construir o próprio negócio.
-O ERRO: O plano era todo focado em "o que eu preciso fazer dentro do corporativo para ter experiência." Mas ela não mexia em nada de negócio. Não construía nada em paralelo. Quando saiu em 2016, teve que montar tudo do zero.
+O ERRO: O plano era todo focado em "o que eu preciso fazer dentro do corporativo para ter experiência." Mas ela não mexia em nada de negócio. Não construía nada em paralelo. Quando saiu em 2015, teve que montar tudo do zero.
 A CONSEQUÊNCIA: O delay entre sair e gerar receita foi maior do que precisava ser. O tempo de rampa foi doloroso.
 INSIGHT ATUAL: É o contrário do que recomenda aos mentorados. Hoje diz: "Se você já tem a empresa rodando, você tem uma vantagem enorme. O maior aprendizado da minha trajetória é: não espere sair pra começar a construir."
 FRASE-CHAVE: "Meu maior erro foi planejar a saída sem construir nada durante os 5 anos. Quando saí, o delay entre montar e faturar custou caro."
