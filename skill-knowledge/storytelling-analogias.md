@@ -34,12 +34,12 @@ PARALELO — a ponte para o leitor: "e o que eu percebo é que você pode estar 
 
 **Sementes de história da Lilian que podem ser desenvolvidas:**
 - O burnout de 2011: perceber que o sucesso corporativo virou armadilha — queria empreender mas o conforto travou
-- A demissão de 2016: não viveu como crise, viveu como a oportunidade que estava esperando
+- A demissão de 2015: não viveu como crise, viveu como a oportunidade que estava esperando
 - O primeiro cliente de mentoria: a insegurança de cobrar, a descoberta de que o mercado pagava
 - Os R$5M faturados: o que veio depois de estruturar a experiência como produto
 
 **Exemplo de abertura:**
-> "Em 2016, quando fui demitida do meu último emprego, eu tinha duas escolhas: entrar em pânico ou usar o tempo que eu não escolhi ter para construir o que sempre quis. Eu escolhi a segunda. Mas o que eu não sabia era o quanto levaria para entender que o que eu sabia valia muito mais do que eu cobrava."
+> "Em 2015, quando fui demitida do meu último emprego, eu tinha duas escolhas: entrar em pânico ou usar o tempo que eu não escolhi ter para construir o que sempre quis. Eu escolhi a segunda. Mas o que eu não sabia era o quanto levaria para entender que o que eu sabia valia muito mais do que eu cobrava."
 
 **Erro a evitar:** não transformar em narrativa de superação genérica. Manter o tom diagnóstico — Lilian analisa, não emociona gratuitamente.
 
