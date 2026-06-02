@@ -14,19 +14,31 @@ Cada passo flui automaticamente para o próximo. Só pausar quando houver uma de
 
 ## Fluxo Completo (6 Passos)
 
-### PASSO 0: Sincronizar o Cérebro
+### PASSO 0: Sincronizar o Cérebro (OBRIGATÓRIO)
+
+O cérebro (`github.com/liliancidreira/cerebro`) é a fonte única de verdade. O repositório é privado, então o clone precisa do token. O token é lido dinamicamente — a pasta `outputs` persiste entre sessões, mas o nome da sessão muda, por isso NÃO se hardcoda o caminho da sessão.
 
 ```bash
-cd /tmp && rm -rf cerebro && git clone https://github.com/liliancidreira/cerebro.git cerebro 2>/dev/null && echo "CEREBRO OK" || echo "CEREBRO OFFLINE"
+CONFIG="$(ls -1 /sessions/*/mnt/outputs/.cerebro-config 2>/dev/null | head -1)"
+CLONE_URL=""
+if [ -n "$CONFIG" ]; then
+  source "$CONFIG"
+  CLONE_URL="https://${CEREBRO_USER}:${CEREBRO_TOKEN}@github.com/liliancidreira/cerebro.git"
+fi
+if [ -n "$CLONE_URL" ] && (cd /tmp && rm -rf cerebro && git clone --depth 1 "$CLONE_URL" cerebro >/dev/null 2>&1); then
+  echo "CEREBRO_OK"
+else
+  echo "CEREBRO_OFFLINE"
+fi
 ```
 
-Se CEREBRO OK: ler todos os arquivos de referência:
+Se CEREBRO_OK: ler todos os arquivos de referência:
 - `/tmp/cerebro/banco-de-historias.md`
 - `/tmp/cerebro/voz-e-aprendizados.md`
 - `/tmp/cerebro/skill-knowledge/brand-knowledge.md`
 - `/tmp/cerebro/skill-knowledge/metodo-atencao/*.md` (todos os arquivos, incluindo 30-templates-copy.md)
 
-Se CEREBRO OFFLINE: informar e usar conhecimento interno da skill.
+Se CEREBRO_OFFLINE: NÃO gerar conteúdo silenciosamente com conhecimento interno (essa é a regra "falhar alto"). Avisar a Lilian de forma explícita: "Não consegui sincronizar o cérebro do GitHub, então não posso garantir que a base — voz, histórias, datas — está atualizada. Quer que eu (a) siga com a cópia interna, ciente de que pode estar desatualizada, ou (b) você configura/renova o token primeiro?" Só prosseguir após a escolha dela.
 
 ### PASSO 1: Entrevista Rápida
 
@@ -35,9 +47,9 @@ Se CEREBRO OFFLINE: informar e usar conhecimento interno da skill.
 1. **Foco da semana**: "Qual é o foco da semana? Tem algum tema, lançamento, evento ou dor específica que quer endereçar?" (campo aberto)
 
 2. **Volume**: "Quantos conteúdos quer para essa semana?" com opções:
-   - "Pack completo (7 peças: 3 Reels + 2 Carrosseis + 2 Posts)"
-   - "Pack reduzido (4 peças: 2 Reels + 1 Carrossel + 1 Post)"
-   - "Personalizado (me diz o que precisa)"
+- "Pack completo (7 peças: 3 Reels + 2 Carrosseis + 2 Posts)"
+- "Pack reduzido (4 peças: 2 Reels + 1 Carrossel + 1 Post)"
+- "Personalizado (me diz o que precisa)"
 
 3. **Histórias novas**: "Tem alguma história nova de cliente, insight ou situação que aconteceu essa semana?" (campo aberto)
 
@@ -127,11 +139,11 @@ Após apresentar o pack:
 
 1. Perguntar: "Quer ajustar alguma peça? Me indica qual e o que mudar."
 2. Se houver ajustes: aplicar e revisar novamente com o `revisor-gatilhos`
-3. Quando aprovado: salvar o pack completo em arquivo:
+3. Quando aprovado: salvar o pack completo em arquivo (caminho da pasta outputs resolvido dinamicamente, sem hardcodar o nome da sessão):
 
 ```bash
-# Salvar no outputs
-ARQUIVO="/sessions/determined-sharp-fermi/mnt/outputs/conteudo-semanal-$(date +%Y-%m-%d).md"
+OUTDIR="$(ls -1d /sessions/*/mnt/outputs 2>/dev/null | head -1)"
+ARQUIVO="$OUTDIR/conteudo-semanal-$(date +%Y-%m-%d).md"
 ```
 
 4. Se a Lilian quiser roteiros de carrossel para o Canva: gerar no formato slide a slide (sem títulos, só texto narrativo)
@@ -145,7 +157,7 @@ ARQUIVO="/sessions/determined-sharp-fermi/mnt/outputs/conteudo-semanal-$(date +%
 - O fluxo é sequencial: Temas → Estratégia → Geração → Revisão → Aprovação
 - A Lilian só é consultada no Passo 1 (entrevista), Passo 2 (escolha de temas) e Passo 6 (aprovação)
 - Todos os passos intermediários rodam automaticamente
-- Se algo falhar (cerebro offline, por exemplo), adaptar e seguir — não travar o fluxo
+- Se o cérebro estiver offline, NÃO seguir em silêncio: avisar a Lilian (ver Passo 0) e só prosseguir após a escolha dela. Outras falhas pontuais e isoladas podem ser adaptadas sem travar o fluxo.
 - Garantir variedade: nunca dois Reels com o mesmo gancho/gatilho, nunca dois carrosseis com o mesmo arquétipo de história
 - Todo conteúdo gerado deve passar pelo revisor antes de ser apresentado
 - O revisor é a última instância — se ele não aprova, o conteúdo é reescrito antes de chegar à Lilian
