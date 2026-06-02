@@ -44,7 +44,7 @@ MODELO B - Contradição: "Você passou 20 anos construindo expertise e ainda ac
 MODELO C - Cena de inflexão (Arquétipo 3): "Você está em uma reunião de board. Alguém 15 anos mais novo apresenta um projeto com metade da profundidade que você entregaria. E você pensa: como isso aconteceu?"
 MODELO D - Pergunta de identificação: "Você tem experiência de sobra mas não faz ideia de quanto cobrar pela sua mentoria?"
 MODELO E - Afirmação provocadora: "Síndrome do impostor em executivo sênior não é problema de autoestima. É problema de posicionamento."
-MODELO F - Abertura de história pessoal (Arquétipo 1): "Em 2016, quando fui demitida do meu último emprego, eu tinha duas escolhas..."
+MODELO F - Abertura de história pessoal (Arquétipo 1): "Em 2015, quando fui demitida do meu último emprego, eu tinha duas escolhas..."
 
 [ATENÇÃO SUSTENTADA — 3 a 50 segundos]
 2-3 pontos entregues em sequência, cada um com causa → consequência.
@@ -150,7 +150,7 @@ Ex: "Síndrome do impostor em executivo sênior não é falta de confiança. É 
 CAMINHO B — Abertura por história (mais eficaz para identificação emocional no LinkedIn):
 Começa com Arquétipo 1 ("Eu estava lá") ou Arquétipo 3 ("O momento que mudou tudo").
 A história deve ter uma cena específica — não uma generalização.
-Ex: "Em 2016, quando fui demitida do meu último emprego, eu tinha duas escolhas."
+Ex: "Em 2015, quando fui demitida do meu último emprego, eu tinha duas escolhas."
 Ex: "Você está em uma reunião de board. Alguém 15 anos mais jovem apresenta um projeto com metade da profundidade que você entregaria."
 
 [DESENVOLVIMENTO — 3-5 parágrafos curtos]
