@@ -1,0 +1,19 @@
+{
+  "name": "lilian-cidreira-tools",
+  "owner": {
+    "name": "Lilian Cidreira"
+  },
+  "description": "Plugins de conteudo da Lilian Cidreira, sincronizados a partir do cerebro (fonte unica de verdade).",
+  "plugins": [
+    {
+      "name": "gerador-conteudo-metodo-atencao",
+      "source": "./plugins/gerador-conteudo-metodo-atencao",
+      "description": "Geracao de conteudo (Reels, carrosseis, posts) pelo Metodo Atencao Digital, com sync obrigatorio do cerebro."
+    },
+    {
+      "name": "criador-carrossel",
+      "source": "./plugins/criador-carrossel",
+      "description": "Criacao de carrosseis estrategicos (12 modelos), com sync obrigatorio do cerebro."
+    }
+  ]
+}
