@@ -33,10 +33,14 @@ fi
 ```
 
 Se CEREBRO_OK: ler todos os arquivos de referência:
-- `/tmp/cerebro/banco-de-historias.md`
-- `/tmp/cerebro/voz-e-aprendizados.md`
-- `/tmp/cerebro/skill-knowledge/brand-knowledge.md`
-- `/tmp/cerebro/skill-knowledge/metodo-atencao/*.md` (todos os arquivos, incluindo 30-templates-copy.md)
+- /tmp/cerebro/nucleo/voz-e-tom.md (voz, tom, proibições)
+- /tmp/cerebro/nucleo/fatos.md (datas e números)
+- /tmp/cerebro/nucleo/banco-de-historias.md (histórias)
+- /tmp/cerebro/nucleo/produtos/ (perfil + persona + qfd + big-ideia + diagnostico do produto escolhido; e cruzamentos.md)
+- /tmp/cerebro/nucleo/provas-e-depoimentos.md
+- /tmp/cerebro/nucleo/ofertas-e-precos.md
+- /tmp/cerebro/conteudo/ (content-templates, storytelling-analogias, design-system, linkedin-playbook; e carrosseis-modelos.md)
+- /tmp/cerebro/skill-knowledge/metodo-atencao/*.md (o método)
 
 Se CEREBRO_OFFLINE: NÃO gerar conteúdo silenciosamente com conhecimento interno (essa é a regra "falhar alto"). Avisar a Lilian de forma explícita: "Não consegui sincronizar o cérebro do GitHub, então não posso garantir que a base — voz, histórias, datas — está atualizada. Quer que eu (a) siga com a cópia interna, ciente de que pode estar desatualizada, ou (b) você configura/renova o token primeiro?" Só prosseguir após a escolha dela.
 
@@ -53,7 +57,7 @@ Se CEREBRO_OFFLINE: NÃO gerar conteúdo silenciosamente com conhecimento intern
 
 3. **Histórias novas**: "Tem alguma história nova de cliente, insight ou situação que aconteceu essa semana?" (campo aberto)
 
-Se a Lilian tiver história nova: registrar no banco-de-historias.md e fazer push.
+Se a Lilian tiver história nova: registrar no /tmp/cerebro/nucleo/banco-de-historias.md e fazer push.
 
 ### PASSO 2: Pesquisar Temas (skill: pesquisador-temas)
 
