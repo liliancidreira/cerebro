@@ -17,7 +17,7 @@ Revisar todo conteúdo gerado (pelo roteirista, copywriter, ou diretamente pela 
 4. `/tmp/cerebro/skill-knowledge/metodo-atencao/metricas-validacao.md` — métricas e diagnóstico
 5. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — funil
 6. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates**
-7. `/tmp/cerebro/voz-e-aprendizados.md` — regras de voz
+7. `/tmp/cerebro/nucleo/voz-e-tom.md` — regras de voz
 
 ## O Processo de Revisão
 

@@ -45,9 +45,9 @@ Após sincronizar o cérebro, leia estes arquivos nesta ordem:
 1. `references/modelos-carrossel.md` (nesta pasta) — os 12 modelos com estrutura card a card
 
 **Do cérebro (conhecimento da Lilian — sempre a versão mais recente do GitHub):**
-2. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — ICP, produto (Mentoria Signature), voz, objeções, ângulos de conteúdo
-3. `/tmp/cerebro/voz-e-aprendizados.md` — regras de voz atualizadas e aprendizados acumulados
-4. `/tmp/cerebro/banco-de-historias.md` — histórias reais de clientes e da Lilian para storytelling
+2. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — ICP, produto (Mentoria Signature), voz, objeções, ângulos de conteúdo
+3. `/tmp/cerebro/nucleo/voz-e-tom.md` — regras de voz atualizadas e aprendizados acumulados
+4. `/tmp/cerebro/nucleo/banco-de-historias.md` — histórias reais de clientes e da Lilian para storytelling
 5. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos de atenção
 6. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição de funil
 

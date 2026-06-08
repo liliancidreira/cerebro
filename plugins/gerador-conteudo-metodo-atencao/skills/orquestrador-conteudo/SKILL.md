@@ -34,9 +34,9 @@ cd /tmp && rm -rf cerebro && git clone https://github.com/liliancidreira/cerebro
 \`\`\`
 
 Se CEREBRO OK: ler todos os arquivos de referência:
-- \`/tmp/cerebro/banco-de-historias.md\`
-- \`/tmp/cerebro/voz-e-aprendizados.md\`
-- \`/tmp/cerebro/skill-knowledge/brand-knowledge.md\` — para saber quais produtos existem
+- \`/tmp/cerebro/nucleo/banco-de-historias.md\`
+- \`/tmp/cerebro/nucleo/voz-e-tom.md\`
+- \`/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md\` — para saber quais produtos existem
 - \`/tmp/cerebro/skill-knowledge/metodo-atencao/*.md\` (todos os 7 arquivos)
 
 Se CEREBRO OFFLINE: informar e usar conhecimento interno da skill.
@@ -45,7 +45,7 @@ Se CEREBRO OFFLINE: informar e usar conhecimento interno da skill.
 
 **Usar \`AskUserQuestion\`**:
 
-1. **Produto**: "Para qual produto quer gerar conteúdo?" com opções baseadas na tabela de produtos do \`brand-knowledge.md\`:
+1. **Produto**: "Para qual produto quer gerar conteúdo?" com opções baseadas nos produtos em \`/tmp/cerebro/nucleo/produtos/\`:
    - "Mentoria Signature"
    - (futuros produtos aparecerão aqui conforme forem adicionados)
 
@@ -138,7 +138,7 @@ ARQUIVO="/sessions/determined-sharp-fermi/mnt/outputs/conteudo-quinzenal-$(date 
 - [ ] Começa com o problema concreto (não com motivação)
 - [ ] Usa "eu" e "você" — nunca "a gente" ou "vocês"
 - [ ] Tem pelo menos uma frase de autoridade da Lilian
-- [ ] Não contém frases proibidas (ver voz-e-aprendizados.md)
+- [ ] Não contém frases proibidas (ver nucleo/voz-e-tom.md)
 - [ ] Tem CTA claro no final
 - [ ] Concordância de gênero feminino quando Lilian fala de si
 - [ ] Zero emojis

@@ -19,7 +19,7 @@ Leia antes de definir qualquer estratégia:
 4. `/tmp/cerebro/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — separar formato de assunto
 5. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição de funil
 6. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
-7. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — voz, ICP, proibições
+7. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — voz, ICP, proibições
 
 ## Os 7 Gatilhos e Quando Usar Cada Um
 

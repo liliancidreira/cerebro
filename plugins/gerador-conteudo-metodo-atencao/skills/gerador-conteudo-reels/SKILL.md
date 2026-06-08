@@ -22,9 +22,9 @@ cd /tmp && rm -rf cerebro && git clone https://github.com/liliancidreira/cerebro
 ```
 
 Se CEREBRO OK: ler todos os arquivos de referência:
-- `/tmp/cerebro/banco-de-historias.md`
-- `/tmp/cerebro/voz-e-aprendizados.md`
-- `/tmp/cerebro/skill-knowledge/brand-knowledge.md`
+- `/tmp/cerebro/nucleo/banco-de-historias.md`
+- `/tmp/cerebro/nucleo/voz-e-tom.md`
+- `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md`
 - `/tmp/cerebro/skill-knowledge/produtos/signature/` (produto.md, icp.md, copy-angles.md)
 - `/tmp/cerebro/skill-knowledge/metodo-atencao/*.md` (todos os 7 arquivos)
 

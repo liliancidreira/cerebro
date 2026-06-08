@@ -22,8 +22,8 @@ Antes de gerar qualquer tema, leia estes arquivos do repositório cerebro (clone
 2. `/tmp/cerebro/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — como separar formato de assunto
 3. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição topo/meio/fundo
 4. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — banco de 30 templates de abertura
-5. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — ICP, dores, produto
-6. `/tmp/cerebro/banco-de-historias.md` — histórias reais para inspiração de temas
+5. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — ICP, dores, produto
+6. `/tmp/cerebro/nucleo/banco-de-historias.md` — histórias reais para inspiração de temas
 
 Se o cerebro não estiver clonado, clone primeiro:
 ```bash
@@ -91,7 +91,7 @@ Estes são os temas com os quais todo ser humano se conecta:
 - **Tecnologia/Atualidade**: IA, ChatGPT, automação, mudanças de mercado
 - **Celebridades/Cultura pop**: eventos midiáticos, figuras públicas, polêmicas
 
-### Mapeamento do ICP (Completo — vem do brand-knowledge.md)
+### Mapeamento do ICP (Completo — vem de /tmp/cerebro/nucleo/produtos/)
 
 Executivos seniores (40-60 anos). Use o mapeamento completo abaixo para cruzar com os assuntos universais:
 

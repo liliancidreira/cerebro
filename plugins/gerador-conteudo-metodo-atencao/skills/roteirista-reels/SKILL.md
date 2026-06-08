@@ -17,9 +17,9 @@ Leia antes de escrever qualquer roteiro:
 2. `/tmp/cerebro/skill-knowledge/metodo-atencao/5-pilares-reels.md` — os 5 pilares
 3. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — referência dos gatilhos
 4. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
-5. `/tmp/cerebro/voz-e-aprendizados.md` — regras de voz da Lilian
-6. `/tmp/cerebro/banco-de-historias.md` — histórias reais para usar no storytelling
-7. `/tmp/cerebro/skill-knowledge/brand-knowledge.md` — ICP, proibições, tom
+5. `/tmp/cerebro/nucleo/voz-e-tom.md` — regras de voz da Lilian
+6. `/tmp/cerebro/nucleo/banco-de-historias.md` — histórias reais para usar no storytelling
+7. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — ICP, proibições, tom
 
 ---
 
