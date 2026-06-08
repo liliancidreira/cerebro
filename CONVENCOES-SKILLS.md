@@ -40,7 +40,8 @@ Regra de tratamento do resultado (colar logo abaixo do bloco no SKILL.md):
 Se CEREBRO_OK: leia o conhecimento de /tmp/cerebro/nucleo/ + do cérebro específico da skill (/tmp/cerebro/conteudo/ ou /tmp/cerebro/vendas/) — nunca dos arquivos locais da skill.
 Se CEREBRO_OFFLINE: PARE e diga à Lilian: "Não consegui sincronizar o cérebro do GitHub, então não posso garantir que a base está atualizada. Quer que eu (a) gere com a cópia local, sabendo que pode estar desatualizada, ou (b) você configura/renova o token primeiro?" Nunca gere conteúdo final (nem conduza venda) sem esse aviso.
 Configuração do token (uma vez, de forma segura)
-No GitHub, gere um fine-grained personal access token com acesso somente-leitura e apenas ao repositório cerebro (Contents: Read). Não use token de conta inteira.
+No GitHub, gere um fine-grained personal access token com acesso Read and write (Contents: Read and write) e apenas ao repositório cerebro (Only select repositories → cerebro). Não use token de conta inteira nem com acesso a todos os repos.
+Por que read and write: o cérebro é um documento vivo. No Passo 1, quando a Lilian conta uma história nova, a skill grava em /tmp/cerebro/nucleo/banco-de-historias.md e faz push de volta — isso exige escrita. Sem write, a skill lê tudo atualizado mas não registra nada novo.
 Salve em outputs/.cerebro-config (a pasta outputs persiste entre sessões):
 
 CEREBRO_USER="liliancidreira"
@@ -71,7 +72,7 @@ d) skill-creator (para o futuro)
 O bloco Passo 0 como seção obrigatória de toda skill nova.
 Frase de precedência: "Conhecimento sobre a Lilian vem sempre do cérebro (/tmp/cerebro/nucleo + o cérebro específico). A skill nunca duplica esse conhecimento localmente."
 Como manter (checklist de governança)
-Token fine-grained read-only configurado em outputs/.cerebro-config
+Token fine-grained read and write, escopado só ao repo cerebro, configurado em outputs/.cerebro-config
 Passo 0 padronizado no topo de todas as skills
 Toda skill lê /nucleo + o seu cérebro (/conteudo ou /vendas)
 Nenhuma skill com cópia local de conhecimento da Lilian
