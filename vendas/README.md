@@ -1,24 +1,35 @@
-# Vendas — como conduzir a conversa
+# Vendas — cérebro de condução de venda
 
-Cérebro de vendas: orientações de **como conduzir uma conversa com lead ou aluno para levar a novas compras**. Aqui mora a condução; o que cada produto **é** está em `/nucleo/produtos`, e os preços em `/nucleo/ofertas-e-precos.md`.
+Conhecimento específico de **conduzir a venda** do ecossistema Lilian Cidreira. A skill `vendedora-spin`, no Passo 0, sincroniza o cérebro e lê **`/nucleo` (transversal) + este `/vendas`**.
 
-Toda skill de vendas, no Passo 0, sincroniza `/nucleo` (produtos, preços, provas, fatos, voz) + este `/vendas`.
+## Governança (lê do núcleo, não duplica)
+O que é transversal vem do núcleo e **não se repete aqui**:
+- Produtos, ICP, personas, escada, cruzamentos → `/nucleo/produtos/`
+- Preços e condições → `/nucleo/ofertas-e-precos.md` (**preço de produto de reunião não se cita por WhatsApp**)
+- Provas, casos, números → `/nucleo/provas-e-depoimentos.md`
+- Histórias da Lilian (para storytelling/objeção) → `/nucleo/banco-de-historias.md`
+- Voz, tom e proibições → `/nucleo/voz-e-tom.md`
 
-## Missão da vendedora (o princípio central)
-A vendedora não apenas roteia o produto certo — ela **gera desejo de compra**. Tudo aqui serve a isso. Há dois cenários, e em ambos o trabalho é o mesmo: entender **o que a pessoa quer** + **o momento** + **o poder de compra**, e **criar o desejo** pela compra (com honestidade, nunca empurrando).
+## O que tem aqui
+- `metodo-conversa.md` — **o motor de conversa** (os 7 momentos: Conexão → Situação → Problema → Consequência → Roteamento/Oferta → Objeção → Fechamento/Registro). Híbrido SPIN + NEPQ + Voss + Hormozi/Cialdini, adaptado a WhatsApp/lead quente.
+- `roteamento-oferta.md` — **a síntese que decide o que oferecer** (perfil demográfico + momento + necessidade) nas 3 portas de entrada: carrinho MPP, aluno MPP, webinário P.O.D.E.R. Inclui a barreira da reunião (R$11k+).
+- `banco-objecoes.md` — quebra de objeção por **empatia tática** (rótulo + pergunta calibrada + história), com os roteiros prontos.
+- `pitch-por-produto.md` — **geração de desejo** pela Equação de Valor e fechamento em 3 turnos, por produto (MPP, P.O.D.E.R., sessão com a Lilian).
+- `registro-no-cerebro.md` — como a skill **registra cada atendimento** (o que foi oferecido, quando e por quê) de volta no cérebro (token read+write) — o que mantém o cérebro de vendas vivo.
+- `masterclass.md` — condução de leads vindos de masterclass (oferta por edição).
+- `sessao-de-vendas.md` — como funciona a sessão dos produtos de reunião (Aceleração/MMV/Signature); a operadora qualifica e gera desejo, a Lilian apresenta e fecha.
 
-**1. Quem ainda não comprou.** Descobrir o que a pessoa quer, indicar o **melhor caminho** para isso e gerar desejo pela compra.
-- Quando o caminho é a **sessão com a Lilian** (produtos mais caros), a sessão **também precisa ser "vendida"**: o objetivo não é só agendar, é fazer a pessoa **querer saber mais** sobre o que a Lilian vai oferecer e chegar **pronta para comprar** (quente, com desejo), não só curiosa.
+## As 3 portas de entrada (foco da vendedora-spin)
+1. **Carrinho abandonado do MPP** — recuperar o MPP (se for o ajuste certo).
+2. **Aluno do MPP** — diagnosticar momento e oferecer P.O.D.E.R. ou sessão com a Lilian.
+3. **Webinário do P.O.D.E.R.** — recuperar: vender P.O.D.E.R. ou levar para a sessão.
 
-**2. Quem já comprou (ascensão).** Conduzir a pessoa a **subir** para produtos mais caros, entendendo o **momento** dela na jornada, o **poder de compra** e **gerando desejo** pela próxima compra — a partir do que ela já viveu e do que ainda quer alcançar. Nunca empurrar; criar o desejo.
+## Trilho à parte
+A **prospecção ativa fria** (Signature) é outra skill (`prospeccao-ativa-signature`, método do espelho, em primeira pessoa pelo login da Lilian) — topo de funil que abre conversa e marca reunião. Não faz parte das 3 portas acima.
 
-## Arquivos
-- `origem-e-roteamento.md` — de onde o lead veio (sempre a 1ª pergunta) + matriz desejo × R$11k + pitch de conversão para quem quer mentoria mas está abaixo de R$11k.
-- `masterclass.md` — como conduzir leads vindos de uma Masterclass.
-- `sessao-de-vendas.md` — como funciona a sessão por vídeo (Aceleração/MMV/Signature) e o papel da operadora em preparar o lead.
-- `spin-objecoes-prospeccao.md` — SPIN, objeções e prospecção ativa (a consolidar do material existente).
-
-## Regras invioláveis
-- A Lilian **só se reúne com quem ganha R$11k+**. Abaixo disso, o teto é o Método (sem reunião).
-- Aceleração, MMV e Signature **nunca** fecham por WhatsApp — a operadora qualifica e agenda; quem apresenta e fecha é a Lilian.
-- A operadora **sempre atende, nunca descarta** — lead de renda menor tem o caminho do Método.
+## Regras de ouro (resumo)
+- Conexão antes de pergunta; **uma pergunta por vez**; brevidade de WhatsApp.
+- Espinha investigativa obrigatória (constrói desejo); oferta só depois de perfil + momento + necessidade.
+- Oferta = **síntese**, nunca regra automática de salário.
+- Fechamento em turnos; produto de reunião termina em **agendamento**, não em preço.
+- **Registrar todo atendimento** no cérebro (o que/quando/por quê).

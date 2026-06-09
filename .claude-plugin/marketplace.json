@@ -14,6 +14,11 @@
       "name": "criador-carrossel",
       "source": "./plugins/criador-carrossel",
       "description": "Criacao de carrosseis estrategicos (12 modelos), com sync obrigatorio do cerebro."
+    },
+    {
+      "name": "vendedora-spin",
+      "source": "./plugins/vendedora-spin",
+      "description": "Apoio a vendas: conduz atendimento das 3 portas de entrada e registra cada conversa no cerebro, com sync obrigatorio."
     }
   ]
 }
