@@ -18,14 +18,15 @@ O que é transversal vem do núcleo e **não se repete aqui**:
 - `registro-no-cerebro.md` — como a skill **registra cada atendimento** (o que foi oferecido, quando e por quê) de volta no cérebro (token read+write) — o que mantém o cérebro de vendas vivo.
 - `masterclass.md` — condução de leads vindos de masterclass (oferta por edição).
 - `sessao-de-vendas.md` — como funciona a sessão dos produtos de reunião (Aceleração/MMV/Signature); a operadora qualifica e gera desejo, a Lilian apresenta e fecha.
+- `prospeccao/` — **prospecção ativa fria** (topo de funil): `motor.md` (o método genérico, product-agnostic: princípios globais, 4 movimentos, cadência, condução, handoff) e `angulo-signature.md` (o Método do Espelho da Signature, canais e modelos prontos). Abre conversa e faz handoff para a reunião (Signature) ou para a `vendedora-spin` (produtos de carreira).
 
 ## As 3 portas de entrada (foco da vendedora-spin)
 1. **Carrinho abandonado do MPP** — recuperar o MPP (se for o ajuste certo).
 2. **Aluno do MPP** — diagnosticar momento e oferecer P.O.D.E.R. ou sessão com a Lilian.
 3. **Webinário do P.O.D.E.R.** — recuperar: vender P.O.D.E.R. ou levar para a sessão.
 
-## Trilho à parte
-A **prospecção ativa fria** (Signature) é outra skill (`prospeccao-ativa-signature`, método do espelho, em primeira pessoa pelo login da Lilian) — topo de funil que abre conversa e marca reunião. Não faz parte das 3 portas acima.
+## Prospecção ativa (topo de funil)
+A **prospecção ativa fria** é a skill `prospeccao-ativa-signature` (método do espelho, hoje em 1ª pessoa pelo login da Lilian, para Signature). Ela lê `/nucleo` + `vendas/prospeccao/` no Passo 0. Abre conversa com contato frio e faz handoff: reunião com a Lilian (Signature) ou `vendedora-spin` (quando vira atendimento de produto de carreira). O motor é genérico — pronto para, no futuro, abordar seguidores e vender outros produtos.
 
 ## Regras de ouro (resumo)
 - Conexão antes de pergunta; **uma pergunta por vez**; brevidade de WhatsApp.
