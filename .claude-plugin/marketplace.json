@@ -21,9 +21,9 @@
       "description": "Apoio a vendas: conduz atendimento das 3 portas de entrada e registra cada conversa no cerebro, com sync obrigatorio."
     },
     {
-      "name": "prospeccao-ativa-signature",
-      "source": "./plugins/prospeccao-ativa-signature",
-      "description": "Prospeccao ativa fria (Metodo do Espelho) da Signature, com sync obrigatorio do cerebro."
+      "name": "prospeccao-ativa",
+      "source": "./plugins/prospeccao-ativa",
+      "description": "Prospeccao ativa fria (Metodo do Espelho), hoje para Signature, com motor generico e sync obrigatorio do cerebro."
     }
   ]
 }

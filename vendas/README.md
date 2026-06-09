@@ -26,7 +26,7 @@ O que é transversal vem do núcleo e **não se repete aqui**:
 3. **Webinário do P.O.D.E.R.** — recuperar: vender P.O.D.E.R. ou levar para a sessão.
 
 ## Prospecção ativa (topo de funil)
-A **prospecção ativa fria** é a skill `prospeccao-ativa-signature` (método do espelho, hoje em 1ª pessoa pelo login da Lilian, para Signature). Ela lê `/nucleo` + `vendas/prospeccao/` no Passo 0. Abre conversa com contato frio e faz handoff: reunião com a Lilian (Signature) ou `vendedora-spin` (quando vira atendimento de produto de carreira). O motor é genérico — pronto para, no futuro, abordar seguidores e vender outros produtos.
+A **prospecção ativa fria** é a skill `prospeccao-ativa` (método do espelho, hoje em 1ª pessoa pelo login da Lilian, para Signature). Ela lê `/nucleo` + `vendas/prospeccao/` no Passo 0. Abre conversa com contato frio e faz handoff: reunião com a Lilian (Signature) ou `vendedora-spin` (quando vira atendimento de produto de carreira). O motor é genérico — pronto para, no futuro, abordar seguidores e vender outros produtos.
 
 ## Regras de ouro (resumo)
 - Conexão antes de pergunta; **uma pergunta por vez**; brevidade de WhatsApp.

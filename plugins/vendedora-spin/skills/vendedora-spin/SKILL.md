@@ -7,7 +7,7 @@ description: Skill de apoio a vendas da Lilian Cidreira para a equipe/vendedoras
 
 Apoia a equipe de vendas da Lilian a conduzir leads **quentes** por WhatsApp/telefone, nas 3 portas de entrada, com o método de conversa do cérebro, e a registrar cada atendimento de volta no cérebro.
 
-> Esta skill conduz a venda dos leads que já chegaram (recuperação/upsell). A **prospecção ativa fria** de Signature é outra skill (`prospeccao-ativa-signature`).
+> Esta skill conduz a venda dos leads que já chegaram (recuperação/upsell). A **prospecção ativa fria** de Signature é outra skill (`prospeccao-ativa`).
 
 ---
 

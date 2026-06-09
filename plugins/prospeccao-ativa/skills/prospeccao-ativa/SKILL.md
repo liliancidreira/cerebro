@@ -1,5 +1,5 @@
 ---
-name: prospeccao-ativa-signature
+name: prospeccao-ativa
 description: >-
   Gera abordagens de prospecção ativa fria para a Mentoria Signature de Lilian Cidreira, usando o
   "método do espelho" (a pessoa enxerga o valor da própria experiência antes de qualquer oferta).
