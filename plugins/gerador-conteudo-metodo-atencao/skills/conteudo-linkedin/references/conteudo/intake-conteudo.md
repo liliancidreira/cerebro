@@ -41,9 +41,12 @@ Pergunte qual categoria do conteúdo (uma):
 - **Opinião contrária / provocação** — ângulo que gera debate e alcance
 - **Assunto em alta (viral)** — tema universal com **ponte** para o nicho
 - **Mercado, negócios e carreira** — tendência/notícia do setor com leitura própria
+- **Reflexivo / motivacional (com lastro)** — reflexão ancorada num princípio real (ver biblioteca de inspirações), nunca clichê
 - **Outro** — a Lilian descreve
 
 > A categoria não é o objetivo: ela é o **ângulo** de entrada. Ex.: categoria "Erro comum" pode servir ao objetivo "quebrar objeção" do produto "Método".
+
+> **Biblioteca de inspirações (fonte transversal de ângulos):** ao buscar o gancho/ângulo de QUALQUER peça — não só da categoria reflexiva — considere `references/conteudo/inspiracoes/` (princípios de livros que a Lilian curou). Use quando um princípio **fortalece** a peça do produto+objetivo escolhidos, sempre com **ponte pro nicho** e **sem clichê** (respeitando a voz-e-tom). É como o banco de histórias: disponível para todas as categorias.
 
 ---
 
