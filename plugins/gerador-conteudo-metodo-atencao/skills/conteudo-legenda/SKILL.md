@@ -1,9 +1,17 @@
 ---
-name: copywriter-legenda
-description: Escreve legendas, posts de texto e estruturas de carrossel para Instagram, LinkedIn e TikTok usando a metodologia Atenção Digital de Elias Maman. Adapta o conteúdo para cada plataforma mantendo os gatilhos de atenção e a voz da Lilian. Use sempre que precisar de legendas para posts, textos para LinkedIn, estruturas de carrossel, ou copies para publicação em redes sociais.
+name: conteudo-legenda
+description: Escreve legendas para posts e Reels de Instagram e TikTok, na voz da Lilian e no Método Atenção Digital. NÃO faz post de LinkedIn (use conteudo-linkedin), roteiro de Reel (conteudo-reel) nem carrossel (criador-carrossel). Antes de escrever, segue o intake obrigatório (produto → objetivo → categoria) e o checklist pré-escrita.
 ---
 
 # Skill: Copywriter de Legendas e Posts
+
+## Intake OBRIGATÓRIO (antes de escrever — toda vez)
+Siga `references/conteudo/intake-conteudo.md` à risca:
+1. **Produto** (pergunte) → carregue a base e a persona em `references/nucleo/produtos/`.
+2. **Objetivo** (defina) → atrair / posicionar / nutrir / quebrar objeção / converter / reativar (define o CTA e a temperatura).
+3. **Categoria/ângulo** (pergunte) → dor / desejo / urgência / depoimento / história pessoal / erro-mito / ensino / bastidores / opinião contrária / assunto em alta / mercado-negócios-carreira / outro.
+4. **Checklist pré-escrita OBRIGATÓRIO** → confirme TODOS os itens do checklist do intake antes de escrever a peça. Sem isso, não escrever.
+
 
 ## Missão
 

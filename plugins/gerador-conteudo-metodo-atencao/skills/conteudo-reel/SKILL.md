@@ -1,9 +1,17 @@
 ---
-name: roteirista-reels
-description: Escreve roteiros de Reels usando os 3 Arquétipos de Roteiro do Método Atenção Digital de Elias Maman (O Revelador, O Provocador, O Professor). Aplica storytelling em camadas, dados concretos, e CTA triplo com filtro. Recebe o briefing do estrategista e transforma em roteiro pronto para gravar. Use sempre que precisar escrever roteiros de Reels, scripts de vídeo curto, ou conteúdo para Instagram/TikTok em formato de vídeo.
+name: conteudo-reel
+description: Escreve roteiros de Reels (vídeo curto para Instagram/TikTok) usando os 3 Arquétipos do Método Atenção Digital. É a skill dedicada e única para Reel/roteiro de vídeo. Use quando o pedido for um reel ou roteiro de vídeo curto. Antes de escrever, segue o intake obrigatório (produto → objetivo → categoria) e o checklist pré-escrita.
 ---
 
 # Skill: Roteirista de Reels
+
+## Intake OBRIGATÓRIO (antes de escrever — toda vez)
+Siga `references/conteudo/intake-conteudo.md` à risca:
+1. **Produto** (pergunte) → carregue a base e a persona em `references/nucleo/produtos/`.
+2. **Objetivo** (defina) → atrair / posicionar / nutrir / quebrar objeção / converter / reativar (define o CTA e a temperatura).
+3. **Categoria/ângulo** (pergunte) → dor / desejo / urgência / depoimento / história pessoal / erro-mito / ensino / bastidores / opinião contrária / assunto em alta / mercado-negócios-carreira / outro.
+4. **Checklist pré-escrita OBRIGATÓRIO** → confirme TODOS os itens do checklist do intake antes de escrever a peça. Sem isso, não escrever.
+
 
 ## Missão
 

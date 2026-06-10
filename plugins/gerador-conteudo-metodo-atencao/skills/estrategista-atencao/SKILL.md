@@ -1,6 +1,6 @@
 ---
 name: estrategista-atencao
-description: Define a estratégia de atenção para cada conteúdo usando os 7 gatilhos de Elias Maman. Decide quais gatilhos ativar, em que momento, qual arquétipo de roteiro usar, qual formato e posição no funil. Use sempre que precisar definir a estratégia de um conteúdo antes de escrever o roteiro, ou quando quiser otimizar a combinação de gatilhos de um conteúdo existente.
+description: [INTERNA — não rodar diretamente] Define a estratégia de atenção (gatilhos, arquétipo, posição no funil) de um conteúdo. NUNCA é acionada sozinha: roda apenas como etapa interna do orquestrador-conteudo ou de uma skill de formato.
 ---
 
 # Skill: Estrategista de Atenção

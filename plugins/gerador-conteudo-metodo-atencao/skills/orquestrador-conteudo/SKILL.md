@@ -1,9 +1,11 @@
 ---
 name: orquestrador-conteudo
-description: Orquestra a geração do pack completo de conteúdos (Reels, Carrossel e Texto) para qualquer produto da Lilian Cidreira. Pergunta qual produto, define o volume por formato, e chama as skills especializadas (gerador-conteudo-reels, futuro gerador-conteudo-carrossel, copywriter-legenda). Use sempre que a Lilian pedir para gerar conteúdos, criar o pack, montar o calendário, ou qualquer variação de "gera os conteúdos", "cria os posts", "monta o pack de conteúdo", "conteúdo para essa quinzena".
+description: Orquestra a geração de um PACK de conteúdos (vários formatos de uma vez) para um produto da Lilian. Use APENAS para pedidos de pacote: "gera os conteúdos da semana/quinzena", "monta o pack", "monta o calendário", "não sei o que postar". Para UMA peça específica, use a skill de formato (conteudo-linkedin, conteudo-reel, conteudo-legenda, criador-carrossel) — não esta. Segue o intake obrigatório (produto → objetivo → categoria + checklist) e chama as skills de formato.
 ---
 
 # Comando /orquestrador-conteudo
+> **Intake obrigatório:** este orquestrador segue `references/conteudo/intake-conteudo.md` — define produto e objetivo do pack, e CADA peça gerada passa pelo checklist pré-escrita (via a skill de formato). Nunca pular o checklist.
+
 
 Orquestra a geração do pack completo de conteúdos para qualquer produto da Lilian Cidreira. Coordena as skills de geração por formato (Reels, Carrossel, Texto) e garante que tudo siga o Método Atenção Digital de Elias Maman.
 
@@ -27,19 +29,15 @@ Toda peça carrega — de forma orgânica, nunca forçada — elementos da traje
 
 ## Fluxo do Orquestrador
 
-### PASSO 0: Sincronizar o Cérebro
+### Passo 0 — Base do cérebro (já vem com o plugin, em `references/`)
 
-\`\`\`bash
-cd /tmp && rm -rf cerebro && git clone https://github.com/liliancidreira/cerebro.git cerebro 2>/dev/null && echo "CEREBRO OK" || echo "CEREBRO OFFLINE"
-\`\`\`
 
-Se CEREBRO OK: ler todos os arquivos de referência:
+Leia a base de conhecimento embutida (pasta `references/`, sincronizada do GitHub pelo marketplace):
 - \`references/nucleo/banco-de-historias.md\`
 - \`references/nucleo/voz-e-tom.md\`
 - \`references/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), references/nucleo/voz-e-tom.md, references/nucleo/ofertas-e-precos.md, references/nucleo/provas-e-depoimentos.md, references/nucleo/fatos.md\` — para saber quais produtos existem
 - \`references/skill-knowledge/metodo-atencao/*.md\` (todos os 7 arquivos)
 
-Se CEREBRO OFFLINE: informar e usar conhecimento interno da skill.
 
 ### PASSO 1: Identificar Produto
 
@@ -50,9 +48,9 @@ Se CEREBRO OFFLINE: informar e usar conhecimento interno da skill.
    - (futuros produtos aparecerão aqui conforme forem adicionados)
 
 Após escolher o produto, ler os arquivos da pasta correspondente:
-- \`references/skill-knowledge/produtos/[produto]/produto.md\`
-- \`references/skill-knowledge/produtos/[produto]/icp.md\`
-- \`references/skill-knowledge/produtos/[produto]/copy-angles.md\`
+- \`references/nucleo/produtos/[produto]/produto.md\`
+- \`references/nucleo/produtos/[produto]/icp.md\`
+- \`references/nucleo/produtos/[produto]/copy-angles.md\`
 
 ### PASSO 2: Entrevista e Volume
 
@@ -74,15 +72,15 @@ Se a Lilian tiver história nova: registrar no banco-de-historias.md e fazer pus
 Com base no volume escolhido, distribuir a geração:
 
 **Para Reels:**
-- Ativar a skill \`gerador-conteudo-reels\` com o número de Reels solicitado
+- Ativar a skill \`conteudo-reel\` com o número de Reels solicitado
 - Essa skill cuida de todo o pipeline: temas → estratégia → roteiros → revisão estrutural → revisão criativa
 
 **Para Carrosseis:**
 - (Futuro) Ativar a skill \`gerador-conteudo-carrossel\`
-- Enquanto não existir, usar a skill \`copywriter-legenda\` para gerar as estruturas slide a slide
+- Enquanto não existir, usar a skill \`conteudo-legenda\` para gerar as estruturas slide a slide
 
 **Para Posts de Texto:**
-- Ativar a skill \`copywriter-legenda\` para gerar os textos para LinkedIn e Instagram
+- Ativar a skill \`conteudo-legenda\` para gerar os textos para LinkedIn e Instagram
 
 ### PASSO 4: Consolidar e Apresentar
 

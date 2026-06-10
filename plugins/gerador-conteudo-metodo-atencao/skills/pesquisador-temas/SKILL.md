@@ -1,6 +1,6 @@
 ---
 name: pesquisador-temas
-description: Pesquisa e gera temas com potencial viral usando o Método Atenção Digital de Elias Maman. Cruza assuntos universais com o nicho da Mentoria Signature para criar ideias que atraem audiência massiva e filtram o ICP certo. Inclui Radar de Tendências com busca real no Google. Use sempre que precisar de ideias de temas, assuntos para conteúdo, ou banco de temas virais.
+description: [INTERNA — não rodar diretamente] Pesquisa e gera temas com potencial viral pelo Método Atenção Digital. NUNCA é acionada sozinha: roda apenas como etapa interna do orquestrador-conteudo.
 ---
 
 # Skill: Pesquisador de Temas Virais
@@ -16,7 +16,7 @@ A Lilian sempre recebe os dois blocos e escolhe de qual pool quer puxar.
 
 ## Passo Obrigatório: Carregar a Base de Conhecimento
 
-Antes de gerar qualquer tema, leia estes arquivos do repositório cerebro (clone via bash ou leia localmente):
+Antes de gerar qualquer tema, leia estes arquivos da base embutida (`references/`):
 
 1. `references/skill-knowledge/metodo-atencao/como-achar-temas-virais.md` — método completo
 2. `references/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — como separar formato de assunto
@@ -26,9 +26,7 @@ Antes de gerar qualquer tema, leia estes arquivos do repositório cerebro (clone
 6. `references/nucleo/banco-de-historias.md` — histórias reais para inspiração de temas
 
 Se o cerebro não estiver clonado, clone primeiro:
-```bash
-cd /tmp && rm -rf cerebro && git clone https://github.com/liliancidreira/cerebro.git cerebro 2>/dev/null
-```
+
 
 ---
 

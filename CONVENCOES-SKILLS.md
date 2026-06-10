@@ -94,3 +94,11 @@ Método movido de skill-knowledge/metodo-atencao/ para conteudo/metodo-atencao/ 
 cerebro-vendedora aposentado
 Plugin republicado/reinstalado no app após as mudanças
 
+## Padrao de conteudo (intake + checklist obrigatorios)
+Toda skill de conteudo segue `conteudo/intake-conteudo.md` (fonte unica) ANTES de escrever qualquer peca:
+1. **Produto** (perguntar sempre) → carrega a base/persona do produto no nucleo.
+2. **Objetivo** (definir) → atrair / posicionar / nutrir / quebrar objecao / converter / reativar.
+3. **Categoria/angulo** (perguntar) → dor / desejo / urgencia / depoimento / historia / erro-mito / ensino / bastidores / opiniao contraria / assunto em alta / mercado-negocios-carreira / outro.
+4. **Checklist pre-escrita OBRIGATORIO toda vez** (persona certa, gancho forte, prova real quando o angulo pede, gatilho do metodo, CTA coerente com o objetivo, voz/proibicoes, formato certo).
+
+Arquitetura do plugin de conteudo: **uma skill por formato** (`conteudo-linkedin`, `conteudo-reel`, `conteudo-legenda`, e `criador-carrossel` em plugin proprio) para pecas unicas; **um orquestrador** (`orquestrador-conteudo`) so para packs; skills de estrategia/pesquisa/revisao sao **internas** (nunca diretas). O comando `gerar-conteudo-semanal` foi unificado no orquestrador.

@@ -1,6 +1,6 @@
 ---
 name: revisor-gatilhos
-description: Revisa conteúdos prontos (roteiros, legendas, carrosseis) usando o checklist do Método Atenção Digital de Elias Maman. Verifica se os gatilhos estão ativados corretamente, se a estrutura está sólida, e se as métricas previstas são favoráveis. Use sempre que precisar revisar, validar ou melhorar um conteúdo já escrito, ou quando quiser um diagnóstico de qualidade antes de publicar.
+description: [INTERNA — não rodar diretamente] Revisa um conteúdo pronto pelo checklist de gatilhos do Método Atenção Digital. NUNCA é acionada sozinha: roda como etapa interna de uma skill de formato ou do orquestrador-conteudo.
 ---
 
 # Skill: Revisor de Gatilhos

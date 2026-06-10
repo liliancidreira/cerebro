@@ -1,6 +1,6 @@
 ---
 name: revisor-estrutura-reels
-description: Revisa roteiros de Reels verificando se a estrutura completa do Método Atenção Digital de Elias Maman foi seguida — DNA do Roteiro (7 elementos obrigatórios), blocos do Arquétipo correto (8 para Revelador, 6 para Provocador, 4 para Professor), timing, template de copy, e checklist de conformidade. Use SEMPRE após gerar um roteiro de Reels, antes de entregar à Lilian. Também use quando a Lilian pedir para "revisar a estrutura", "checar se seguiu o método", "validar o roteiro", ou qualquer variação de verificação estrutural de Reels.
+description: [INTERNA — não rodar diretamente] Revisa a estrutura de um roteiro de Reel (DNA, arquétipo, timing). NUNCA é acionada sozinha: roda como etapa interna do conteudo-reel ou do orquestrador-conteudo.
 ---
 
 # Skill: Revisor de Estrutura de Reels
@@ -20,9 +20,7 @@ Antes de revisar, leia:
 3. `references/skill-knowledge/metodo-atencao/30-templates-copy.md` — banco de 30 templates
 
 Se o cerebro não estiver clonado:
-```bash
-cd /tmp && rm -rf cerebro && git clone https://github.com/liliancidreira/cerebro.git cerebro 2>/dev/null
-```
+
 
 ---
 
@@ -192,13 +190,13 @@ Cada arquétipo tem uma quantidade específica de blocos com função e timing d
 
 - **Automaticamente** pelo orquestrador `gerar-conteudo-semanal` após cada roteiro gerado
 - Quando a Lilian pedir para revisar, validar ou checar um roteiro
-- Quando qualquer roteiro for gerado pela skill `roteirista-reels`
+- Quando qualquer roteiro for gerado pela skill `conteudo-reel`
 - Antes de passar o conteúdo para o `revisor-gatilhos`
 
 ## Fluxo no Pipeline
 
 ```
-pesquisador-temas → estrategista-atencao → roteirista-reels → REVISOR-ESTRUTURA-REELS → revisor-gatilhos → entrega
+pesquisador-temas → estrategista-atencao → conteudo-reel → REVISOR-ESTRUTURA-REELS → revisor-gatilhos → entrega
 ```
 
 O revisor estrutural é o checkpoint entre a geração e a revisão criativa. Se o roteiro não passa aqui com nota A ou B, ele volta para o roteirista antes de seguir no pipeline.
