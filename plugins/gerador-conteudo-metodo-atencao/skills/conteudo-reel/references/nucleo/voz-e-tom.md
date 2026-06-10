@@ -18,6 +18,7 @@ Como a Lilian fala — em conteúdo, em vendas, em qualquer canal. Consolidado a
 - Sem clickbait vazio; entregar o que a isca prometeu.
 - Sem promessa vazia nem garantir resultado sem a contrapartida (aplicação).
 - Nunca tratar lead de renda menor como "não-comprador": sempre atende, nunca descarta.
+- **Proibido o padrão "Não é X. É Y."** e derivados ("essa é a pergunta errada... a pergunta certa é...", listas negadas em sequência). Soa texto escrito por IA — veto da Lilian (jun/2026). A virada entra como afirmação diagnóstica única, integrada ao parágrafo (mesmo espírito de "diagnóstico afirmativo único > paralelismo retórico").
 
 ## Regras de escrita (dos ajustes reais)
 - **Fluxo de parágrafo**: conectar ideias com "porém", "então", "com isso", "e um detalhe importante:" — não fragmentar em sentenças curtas e estacadas (esfria o texto).
