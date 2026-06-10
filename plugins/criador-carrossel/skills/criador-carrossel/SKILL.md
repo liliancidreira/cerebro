@@ -1,9 +1,17 @@
 ---
 name: criador-carrossel
-description: Cria carrosséis estratégicos para Instagram e LinkedIn usando os 12 modelos validados do método "Carrosséis que Vendem" de Duda Vieira — adaptados à voz e ao nicho da Lilian Cidreira. Use esta skill SEMPRE que a Lilian pedir para criar um carrossel, montar cards, fazer um post em slides, criar conteúdo de carrossel, ou qualquer variação de "cria um carrossel", "monta os cards", "faz um carrossel sobre X", "quero um post em slides". Também use quando o formato carrossel for escolhido dentro de um pack de conteúdo.
+description: Cria carrosséis estratégicos para Instagram e LinkedIn usando os 12 modelos validados do método "Carrosséis que Vendem" de Duda Vieira — adaptados à voz e ao nicho da Lilian Cidreira. Use esta skill SEMPRE que a Lilian pedir para criar um carrossel, montar cards, fazer um post em slides, criar conteúdo de carrossel, ou qualquer variação de "cria um carrossel", "monta os cards", "faz um carrossel sobre X", "quero um post em slides". Também use quando o formato carrossel for escolhido dentro de um pack. Antes de montar, segue o intake obrigatório (produto → objetivo → categoria) e o checklist pré-escrita.
 ---
 
 # Skill: Criador de Carrosséis Estratégicos
+
+## Intake OBRIGATÓRIO (antes de montar o carrossel — toda vez)
+Siga `references/conteudo/intake-conteudo.md` à risca:
+1. **Produto** (pergunte) → carregue a base/persona em `references/nucleo/produtos/`.
+2. **Objetivo** (defina) → atrair / posicionar / nutrir / quebrar objeção / converter / reativar (define o CTA).
+3. **Categoria/ângulo** (pergunte) → dor / desejo / urgência / depoimento / história / erro-mito / ensino / bastidores / opinião contrária / assunto em alta / mercado-negócios-carreira / outro.
+4. **Checklist pré-escrita OBRIGATÓRIO** → confirme TODOS os itens do checklist do intake antes de montar os cards.
+
 
 ## Missão
 
