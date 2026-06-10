@@ -18,3 +18,5 @@ Este é o **núcleo compartilhado** do cérebro da Lilian Cidreira. Tudo aqui é
 ## O que NÃO fica aqui (vai para os cérebros específicos)
 - Como **qualificar e rotear** um lead (origem do lead, matriz desejo × R$11k, MPP × Método, condução da Masterclass, "como a sessão vende"), SPIN, objeções, prospecção → **`/vendas`**.
 - Método Atenção Digital, gatilhos, arquétipos de roteiro, templates de carrossel, banco de ganchos → **`/conteudo`**.
+
+> Atualizações neste cérebro propagam automaticamente para os plugins via GitHub Action (`scripts/bundle-cerebro.sh`). Não edite `references/` à mão.

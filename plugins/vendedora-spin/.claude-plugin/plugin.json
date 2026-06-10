@@ -1,5 +1,5 @@
 {
   "name": "vendedora-spin",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Apoio a vendas: conduz atendimento das 3 portas + registra. Conhecimento embutido (sem token para ler), entregue pelo marketplace."
 }
