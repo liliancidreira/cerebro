@@ -14,35 +14,19 @@ Cada passo flui automaticamente para o próximo. Só pausar quando houver uma de
 
 ## Fluxo Completo (6 Passos)
 
-### PASSO 0: Sincronizar o Cérebro (OBRIGATÓRIO)
+### PASSO 0: Base de conhecimento (já vem com o plugin)
 
-O cérebro (`github.com/liliancidreira/cerebro`) é a fonte única de verdade. O repositório é privado, então o clone precisa do token. O token é lido dinamicamente — a pasta `outputs` persiste entre sessões, mas o nome da sessão muda, por isso NÃO se hardcoda o caminho da sessão.
+O conhecimento do cérebro **já foi entregue junto com este plugin**, na pasta **`references/`** (sincronizada automaticamente do GitHub pelo marketplace — fonte única). **Não é preciso token nem clonar.** Leia todos os arquivos de referência:
+- references/nucleo/voz-e-tom.md (voz, tom, proibições)
+- references/nucleo/fatos.md (datas e números)
+- references/nucleo/banco-de-historias.md (histórias)
+- references/nucleo/produtos/ (perfil + persona + qfd + big-ideia + diagnostico do produto escolhido; e cruzamentos.md)
+- references/nucleo/provas-e-depoimentos.md
+- references/nucleo/ofertas-e-precos.md
+- references/conteudo/ (content-templates, storytelling-analogias, design-system, linkedin-playbook; e carrosseis-modelos.md)
+- references/skill-knowledge/metodo-atencao/*.md (o método)
 
-```bash
-CONFIG="$(ls -1 /sessions/*/mnt/outputs/.cerebro-config 2>/dev/null | head -1)"
-CLONE_URL=""
-if [ -n "$CONFIG" ]; then
-  source "$CONFIG"
-  CLONE_URL="https://${CEREBRO_USER}:${CEREBRO_TOKEN}@github.com/liliancidreira/cerebro.git"
-fi
-if [ -n "$CLONE_URL" ] && (cd /tmp && rm -rf cerebro && git clone --depth 1 "$CLONE_URL" cerebro >/dev/null 2>&1); then
-  echo "CEREBRO_OK"
-else
-  echo "CEREBRO_OFFLINE"
-fi
-```
-
-Se CEREBRO_OK: ler todos os arquivos de referência:
-- /tmp/cerebro/nucleo/voz-e-tom.md (voz, tom, proibições)
-- /tmp/cerebro/nucleo/fatos.md (datas e números)
-- /tmp/cerebro/nucleo/banco-de-historias.md (histórias)
-- /tmp/cerebro/nucleo/produtos/ (perfil + persona + qfd + big-ideia + diagnostico do produto escolhido; e cruzamentos.md)
-- /tmp/cerebro/nucleo/provas-e-depoimentos.md
-- /tmp/cerebro/nucleo/ofertas-e-precos.md
-- /tmp/cerebro/conteudo/ (content-templates, storytelling-analogias, design-system, linkedin-playbook; e carrosseis-modelos.md)
-- /tmp/cerebro/skill-knowledge/metodo-atencao/*.md (o método)
-
-Se CEREBRO_OFFLINE: NÃO gerar conteúdo silenciosamente com conhecimento interno (essa é a regra "falhar alto"). Avisar a Lilian de forma explícita: "Não consegui sincronizar o cérebro do GitHub, então não posso garantir que a base — voz, histórias, datas — está atualizada. Quer que eu (a) siga com a cópia interna, ciente de que pode estar desatualizada, ou (b) você configura/renova o token primeiro?" Só prosseguir após a escolha dela.
+> A base está sempre atualizada pelo marketplace (auto-sync). A regra "falhar alto" deixa de ser sobre sync de rede: o conteúdo já está presente localmente.
 
 ### PASSO 1: Entrevista Rápida
 
@@ -57,7 +41,7 @@ Se CEREBRO_OFFLINE: NÃO gerar conteúdo silenciosamente com conhecimento intern
 
 3. **Histórias novas**: "Tem alguma história nova de cliente, insight ou situação que aconteceu essa semana?" (campo aberto)
 
-Se a Lilian tiver história nova: registrar no /tmp/cerebro/nucleo/banco-de-historias.md e fazer push.
+Se a Lilian tiver história nova: registrar no references/nucleo/banco-de-historias.md e fazer push.
 
 ### PASSO 2: Pesquisar Temas (skill: pesquisador-temas)
 
@@ -152,7 +136,7 @@ ARQUIVO="$OUTDIR/conteudo-semanal-$(date +%Y-%m-%d).md"
 
 4. Se a Lilian quiser roteiros de carrossel para o Canva: gerar no formato slide a slide (sem títulos, só texto narrativo)
 
-5. Registrar conteúdos aprovados em `/tmp/cerebro/exemplos/conteudos-aprovados.md` e fazer push
+5. Registrar conteúdos aprovados em `references/exemplos/conteudos-aprovados.md` e fazer push
 
 ---
 

@@ -11,31 +11,9 @@ Criar carrosséis que **controlam a percepção da audiência** sobre a Lilian �
 
 A filosofia central: **carrosséis que vendem não são os mais bonitos nem os mais complexos — são os mais claros.** Clareza de direção importa mais que quantidade de ideias.
 
-## Passo 1 — OBRIGATÓRIO: Sincronizar o Cérebro do GitHub
+## Passo 0 — Base de conhecimento (já vem com o plugin)
 
-Execute este bloco via Bash antes de qualquer outra coisa. O cérebro é o repositório central com a base de conhecimento da Lilian — voz, ICP, histórias, produto, gatilhos. Ele é atualizado constantemente, então a skill precisa sempre pegar a versão mais recente. O repositório é privado, então o clone precisa do token.
-
-```bash
-# Token lido dinamicamente: a pasta outputs persiste entre sessões,
-# mas o nome da sessão muda — por isso NÃO se hardcoda o caminho da sessão.
-CONFIG="$(ls -1 /sessions/*/mnt/outputs/.cerebro-config 2>/dev/null | head -1)"
-CLONE_URL=""
-if [ -n "$CONFIG" ]; then
-  source "$CONFIG"
-  CLONE_URL="https://${CEREBRO_USER}:${CEREBRO_TOKEN}@github.com/liliancidreira/cerebro.git"
-fi
-if [ -n "$CLONE_URL" ] && (cd /tmp && rm -rf cerebro && git clone --depth 1 "$CLONE_URL" cerebro >/dev/null 2>&1); then
-  echo "CEREBRO_OK"
-else
-  echo "CEREBRO_OFFLINE"
-fi
-```
-
-Se o clone funcionar (**CEREBRO_OK**):
-- Prossiga normalmente — todos os arquivos abaixo estarão atualizados
-
-Se o clone falhar (**CEREBRO_OFFLINE**) — regra "falhar alto":
-- NÃO gere o carrossel silenciosamente com cópia local. Avise a Lilian: "Não consegui sincronizar o cérebro do GitHub, então não posso garantir que a base (voz, histórias, datas) está atualizada. Quer que eu (a) siga com a cópia local, ciente de que pode estar desatualizada, ou (b) você configura/renova o token primeiro?" Só prossiga após a escolha dela.
+O conhecimento do cérebro **já foi entregue junto com este plugin**, na pasta **`references/`** (o marketplace sincroniza isso automaticamente do GitHub — fonte única). **Não é preciso token nem clonar nada para ler.** Prossiga normalmente — todos os arquivos de conhecimento citados abaixo estão em `references/`, sempre atualizados pelo marketplace (auto-sync).
 
 ## Passo 2 — Carregar a Base de Conhecimento
 
@@ -45,14 +23,14 @@ Após sincronizar o cérebro, leia estes arquivos nesta ordem:
 1. `references/modelos-carrossel.md` (nesta pasta) — os 12 modelos com estrutura card a card
 
 **Do cérebro (conhecimento da Lilian — sempre a versão mais recente do GitHub):**
-2. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — ICP, produto (Mentoria Signature), voz, objeções, ângulos de conteúdo
-3. `/tmp/cerebro/nucleo/voz-e-tom.md` — regras de voz atualizadas e aprendizados acumulados
-4. `/tmp/cerebro/nucleo/banco-de-historias.md` — histórias reais de clientes e da Lilian para storytelling
-5. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos de atenção
-6. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição de funil
+2. `references/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), references/nucleo/voz-e-tom.md, references/nucleo/ofertas-e-precos.md, references/nucleo/provas-e-depoimentos.md, references/nucleo/fatos.md` — ICP, produto (Mentoria Signature), voz, objeções, ângulos de conteúdo
+3. `references/nucleo/voz-e-tom.md` — regras de voz atualizadas e aprendizados acumulados
+4. `references/nucleo/banco-de-historias.md` — histórias reais de clientes e da Lilian para storytelling
+5. `references/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos de atenção
+6. `references/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição de funil
 
 **Arquivos complementares (ler quando relevante):**
-7. `/tmp/cerebro/skill-knowledge/storytelling-analogias.md` — 4 arquétipos de história + 9 analogias calibradas para o ICP (usar quando o carrossel pedir prova social, identificação ou analogia)
+7. `references/skill-knowledge/storytelling-analogias.md` — 4 arquétipos de história + 9 analogias calibradas para o ICP (usar quando o carrossel pedir prova social, identificação ou analogia)
 
 Os arquivos do cérebro têm **prioridade absoluta** sobre qualquer informação local ou genérica. Se houver conflito entre o que está no cérebro e o que está nesta skill, o cérebro vence.
 
@@ -273,20 +251,19 @@ Para cada card, incluir:
 
 Se durante o processo a Lilian compartilhar uma história nova, um aprendizado de voz, ou um ajuste de tom:
 
-1. Registre no arquivo adequado dentro de `/tmp/cerebro/`
-2. Faça push para o GitHub:
+1. Registre no arquivo adequado dentro de `references/`
+2. Para **gravar** no cérebro (ex.: registrar uma história nova), é preciso escrita. Como o `references/` é só leitura (vem do marketplace), use um token **se houver** nesta máquina:
 
 ```bash
 CONFIG="$(ls -1 /sessions/*/mnt/outputs/.cerebro-config 2>/dev/null | head -1)"
-source "$CONFIG"
-cd /tmp/cerebro
-git remote set-url origin "https://${CEREBRO_USER}:${CEREBRO_TOKEN}@github.com/liliancidreira/cerebro.git"
-git add .
-git commit -m "feat: [descrever o que foi atualizado]"
-git push origin main
+if [ -n "$CONFIG" ]; then
+  source "$CONFIG"
+  cd /tmp && rm -rf cerebro_w && git clone --depth 1 "https://${CEREBRO_USER}:${CEREBRO_TOKEN}@github.com/liliancidreira/cerebro.git" cerebro_w >/dev/null 2>&1 \
+    && echo "ESCRITA_OK" || echo "SEM_ESCRITA"
+else echo "SEM_ESCRITA"; fi
 ```
 
-Isso garante que todas as outras skills também se beneficiam da atualização.
+Se **ESCRITA_OK**: edite o arquivo de origem em `cerebro_w/` (ex.: `cerebro_w/nucleo/banco-de-historias.md`), commit e push. A automação regenera os `references/` dos plugins, e o auto-sync entrega a todos. Se **SEM_ESCRITA**: forneça à Lilian o link `https://github.com/liliancidreira/cerebro/edit/main/nucleo/banco-de-historias.md` para colar — sem travar o fluxo.
 
 ## Regras Estratégicas
 

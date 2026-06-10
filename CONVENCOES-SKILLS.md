@@ -1,4 +1,16 @@
 Convenção: Cérebro como Fonte Única de Verdade (regra para todas as skills)
+> ## Atualizacao v3 — entrega do conhecimento por marketplace (sem token para ler)
+>
+> O modelo de "clonar o cerebro com token a cada execucao" foi substituido: o token avulso NAO persiste entre conversas (cada conversa do Cowork abre um workspace limpo), o que quebrava o uso pela equipe. Novo modelo:
+>
+> - O conhecimento de cada skill vive EMBUTIDO no plugin, na pasta `references/` da skill — gerada AUTOMATICAMENTE da fonte unica (`/nucleo`, `/vendas`, `/conteudo`, `skill-knowledge/metodo-atencao`) pelo script `scripts/bundle-cerebro.sh`, rodado pela GitHub Action `.github/workflows/bundle-cerebro.yml` a cada push nessas pastas.
+> - A ENTREGA para cada maquina e feita pelo MARKETPLACE (conexao de GitHub de conta, persistente entre conversas). Com "Sincronizar automaticamente" ligado no marketplace `cerebro`, as atualizacoes chegam sozinhas.
+> - LER nao precisa de token. O Passo 0 deixou de clonar; a skill le de `references/`. Funciona em qualquer conversa e maquina com os plugins instalados, sem setup diario.
+> - ESCREVER (registro de vendas, registrar historia nova) ainda precisa de token, mas e OPCIONAL e com FALLBACK: se houver `.cerebro-config`, grava e da push; se nao, a skill devolve um link de edicao do GitHub para colar, sem travar.
+> - NUNCA editar `references/` a mao — e artefato gerado. A verdade continua sendo `/nucleo`, `/vendas`, `/conteudo`. Edita-se a fonte; a Action regenera os pacotes.
+>
+> O texto abaixo descreve o modelo anterior (clone com token) e fica como historico.
+
 Objetivo: garantir que todo conteúdo gerado (e toda venda conduzida) use sempre a versão mais recente e correta do conhecimento da Lilian. O episódio da data errada (demissão "2016" em vez de 2015) aconteceu porque havia duas fontes — o cérebro no GitHub e cópias embutidas no plugin — que saíram de sincronia. Esta convenção elimina isso.
 A estrutura do cérebro (um repo só)
 O repositório github.com/liliancidreira/cerebro é o único cérebro, organizado em três partes:

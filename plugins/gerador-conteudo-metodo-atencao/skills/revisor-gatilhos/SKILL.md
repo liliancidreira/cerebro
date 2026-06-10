@@ -11,13 +11,13 @@ Revisar todo conteúdo gerado (pelo roteirista, copywriter, ou diretamente pela 
 
 ## Passo Obrigatório: Carregar a Base
 
-1. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos
-2. `/tmp/cerebro/skill-knowledge/metodo-atencao/5-pilares-reels.md` — pilares
-3. `/tmp/cerebro/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — estrutura
-4. `/tmp/cerebro/skill-knowledge/metodo-atencao/metricas-validacao.md` — métricas e diagnóstico
-5. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — funil
-6. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates**
-7. `/tmp/cerebro/nucleo/voz-e-tom.md` — regras de voz
+1. `references/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos
+2. `references/skill-knowledge/metodo-atencao/5-pilares-reels.md` — pilares
+3. `references/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — estrutura
+4. `references/skill-knowledge/metodo-atencao/metricas-validacao.md` — métricas e diagnóstico
+5. `references/skill-knowledge/metodo-atencao/regras-de-funil.md` — funil
+6. `references/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates**
+7. `references/nucleo/voz-e-tom.md` — regras de voz
 
 ## O Processo de Revisão
 

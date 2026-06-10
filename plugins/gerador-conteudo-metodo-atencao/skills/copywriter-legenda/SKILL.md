@@ -11,14 +11,14 @@ Escrever **legendas, posts de texto e estruturas de carrossel** que aplicam os g
 
 ## Passo Obrigatório: Carregar a Base
 
-1. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos
-2. `/tmp/cerebro/skill-knowledge/metodo-atencao/5-pilares-reels.md` — pilares (aplicáveis a todo formato)
-3. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição
-4. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
-5. `/tmp/cerebro/nucleo/voz-e-tom.md` — voz e proibições
-6. `/tmp/cerebro/nucleo/banco-de-historias.md` — histórias reais
-7. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — ICP e produto
-8. `/tmp/cerebro/skill-knowledge/storytelling-analogias.md` — analogias calibradas
+1. `references/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — gatilhos
+2. `references/skill-knowledge/metodo-atencao/5-pilares-reels.md` — pilares (aplicáveis a todo formato)
+3. `references/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição
+4. `references/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
+5. `references/nucleo/voz-e-tom.md` — voz e proibições
+6. `references/nucleo/banco-de-historias.md` — histórias reais
+7. `references/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), references/nucleo/voz-e-tom.md, references/nucleo/ofertas-e-precos.md, references/nucleo/provas-e-depoimentos.md, references/nucleo/fatos.md` — ICP e produto
+8. `references/skill-knowledge/storytelling-analogias.md` — analogias calibradas
 
 ## Tipos de Conteúdo Escrito
 

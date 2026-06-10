@@ -19,30 +19,18 @@ Gera abordagens frias de prospecção da Signature e conduz a conversa até o ag
 
 ---
 
-## Passo 0 — Sincronizar o cérebro (OBRIGATÓRIO, antes de tudo)
+## Passo 0 — Base de conhecimento (já vem com o plugin)
 
-```bash
-CONFIG="$(ls -1 /sessions/*/mnt/outputs/.cerebro-config 2>/dev/null | head -1)"
-CLONE_URL=""
-if [ -n "$CONFIG" ]; then
-  source "$CONFIG"
-  CLONE_URL="https://${CEREBRO_USER}:${CEREBRO_TOKEN}@github.com/liliancidreira/cerebro.git"
-fi
-if [ -n "$CLONE_URL" ] && (cd /tmp && rm -rf cerebro && git clone --depth 1 "$CLONE_URL" cerebro >/dev/null 2>&1); then
-  echo "CEREBRO_OK"
-else
-  echo "CEREBRO_OFFLINE"
-fi
-```
+O conhecimento do cérebro **já foi entregue junto com este plugin**, na pasta **`references/`** (o marketplace sincroniza isso automaticamente do GitHub — fonte única). **Não é preciso token nem clonar nada para ler.** Leia daqui:
 
-- **Se CEREBRO_OK:** leia (nunca de cópia local):
-  - `/tmp/cerebro/vendas/prospeccao/motor.md` — o método genérico (princípios, 4 movimentos, cadência, condução, handoff)
-  - `/tmp/cerebro/vendas/prospeccao/angulo-signature.md` — o Método do Espelho, canais e modelos prontos
-  - `/tmp/cerebro/nucleo/produtos/personas/signature.md` e `/tmp/cerebro/nucleo/produtos/cruzamentos.md` — ICP/persona
-  - `/tmp/cerebro/nucleo/voz-e-tom.md` — voz e proibições
-  - `/tmp/cerebro/vendas/sessao-de-vendas.md` — o que acontece na reunião (handoff)
-  - `/tmp/cerebro/vendas/registro-no-cerebro.md` — como registrar a abordagem
-- **Se CEREBRO_OFFLINE:** PARE e avise: *"Não consegui sincronizar o cérebro do GitHub. Quer que eu (a) use a última versão local, sabendo que pode estar desatualizada, ou (b) você renova o token primeiro?"* Não gere abordagem final sem esse aviso.
+- `references/vendas/prospeccao/motor.md` — o método genérico (princípios, 4 movimentos, cadência, condução, handoff)
+- `references/vendas/prospeccao/angulo-signature.md` — o Método do Espelho, canais e modelos prontos
+- `references/nucleo/produtos/personas/signature.md` e `references/nucleo/produtos/cruzamentos.md` — ICP/persona
+- `references/nucleo/voz-e-tom.md` — voz e proibições
+- `references/vendas/sessao-de-vendas.md` — o que acontece na reunião (handoff)
+- `references/vendas/registro-no-cerebro.md` — como registrar a abordagem
+
+> A base está sempre atualizada pelo marketplace (auto-sync): se a Lilian editar o cérebro, a automação regenera este `references/` e o auto-sync entrega a versão nova — sem ninguém configurar nada.
 
 ---
 

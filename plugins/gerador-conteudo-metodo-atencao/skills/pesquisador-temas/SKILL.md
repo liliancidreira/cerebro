@@ -18,12 +18,12 @@ A Lilian sempre recebe os dois blocos e escolhe de qual pool quer puxar.
 
 Antes de gerar qualquer tema, leia estes arquivos do repositório cerebro (clone via bash ou leia localmente):
 
-1. `/tmp/cerebro/skill-knowledge/metodo-atencao/como-achar-temas-virais.md` — método completo
-2. `/tmp/cerebro/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — como separar formato de assunto
-3. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição topo/meio/fundo
-4. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — banco de 30 templates de abertura
-5. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — ICP, dores, produto
-6. `/tmp/cerebro/nucleo/banco-de-historias.md` — histórias reais para inspiração de temas
+1. `references/skill-knowledge/metodo-atencao/como-achar-temas-virais.md` — método completo
+2. `references/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — como separar formato de assunto
+3. `references/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição topo/meio/fundo
+4. `references/skill-knowledge/metodo-atencao/30-templates-copy.md` — banco de 30 templates de abertura
+5. `references/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), references/nucleo/voz-e-tom.md, references/nucleo/ofertas-e-precos.md, references/nucleo/provas-e-depoimentos.md, references/nucleo/fatos.md` — ICP, dores, produto
+6. `references/nucleo/banco-de-historias.md` — histórias reais para inspiração de temas
 
 Se o cerebro não estiver clonado, clone primeiro:
 ```bash
@@ -91,7 +91,7 @@ Estes são os temas com os quais todo ser humano se conecta:
 - **Tecnologia/Atualidade**: IA, ChatGPT, automação, mudanças de mercado
 - **Celebridades/Cultura pop**: eventos midiáticos, figuras públicas, polêmicas
 
-### Mapeamento do ICP (Completo — vem de /tmp/cerebro/nucleo/produtos/)
+### Mapeamento do ICP (Completo — vem de references/nucleo/produtos/)
 
 Executivos seniores (40-60 anos). Use o mapeamento completo abaixo para cruzar com os assuntos universais:
 

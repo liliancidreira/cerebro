@@ -15,9 +15,9 @@ Esta skill é o "fiscal de obra" — verifica se cada tijolo está no lugar ante
 
 Antes de revisar, leia:
 
-1. `/tmp/cerebro/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — estrutura completa com os 3 arquétipos
-2. `/tmp/cerebro/skill-knowledge/metodo-atencao/5-pilares-reels.md` — os 5 pilares
-3. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — banco de 30 templates
+1. `references/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — estrutura completa com os 3 arquétipos
+2. `references/skill-knowledge/metodo-atencao/5-pilares-reels.md` — os 5 pilares
+3. `references/skill-knowledge/metodo-atencao/30-templates-copy.md` — banco de 30 templates
 
 Se o cerebro não estiver clonado:
 ```bash

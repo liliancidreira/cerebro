@@ -13,13 +13,13 @@ Receber um tema (do pesquisador-temas ou direto da Lilian) e definir a **estrat�
 
 Leia antes de definir qualquer estratégia:
 
-1. `/tmp/cerebro/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — os 7 gatilhos e regras de uso
-2. `/tmp/cerebro/skill-knowledge/metodo-atencao/5-pilares-reels.md` — pilares de conteúdo que performa
-3. `/tmp/cerebro/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — arquétipos de roteiro
-4. `/tmp/cerebro/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — separar formato de assunto
-5. `/tmp/cerebro/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição de funil
-6. `/tmp/cerebro/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
-7. `/tmp/cerebro/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), /tmp/cerebro/nucleo/voz-e-tom.md, /tmp/cerebro/nucleo/ofertas-e-precos.md, /tmp/cerebro/nucleo/provas-e-depoimentos.md, /tmp/cerebro/nucleo/fatos.md` — voz, ICP, proibições
+1. `references/skill-knowledge/metodo-atencao/7-gatilhos-atencao.md` — os 7 gatilhos e regras de uso
+2. `references/skill-knowledge/metodo-atencao/5-pilares-reels.md` — pilares de conteúdo que performa
+3. `references/skill-knowledge/metodo-atencao/estrutura-roteiro.md` — arquétipos de roteiro
+4. `references/skill-knowledge/metodo-atencao/formato-vs-assunto.md` — separar formato de assunto
+5. `references/skill-knowledge/metodo-atencao/regras-de-funil.md` — distribuição de funil
+6. `references/skill-knowledge/metodo-atencao/30-templates-copy.md` — **banco de 30 templates de copy**
+7. `references/nucleo/produtos/ (perfis, ICP, personas, QFD, big-ideia, diagnóstico + cruzamentos.md), references/nucleo/voz-e-tom.md, references/nucleo/ofertas-e-precos.md, references/nucleo/provas-e-depoimentos.md, references/nucleo/fatos.md` — voz, ICP, proibições
 
 ## Os 7 Gatilhos e Quando Usar Cada Um
 
