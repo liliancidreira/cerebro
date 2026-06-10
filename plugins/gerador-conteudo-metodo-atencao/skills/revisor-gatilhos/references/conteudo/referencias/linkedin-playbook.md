@@ -76,6 +76,7 @@ Toda vez que a skill gerar um texto de LinkedIn, precisa respeitar os 13:
 - ❌ Abertura genérica tipo "Hoje eu quero falar sobre..." ou "Você já parou pra pensar..."
 - ❌ Emoji decorativo (🚀 ✨ 💡 etc)
 - ❌ Hashtag no final
+- ❌ Padrão "Não é X. É Y.", "a pergunta errada / a pergunta certa" e listas negadas em sequência (soa IA — veto jun/2026)
 
 ---
 
@@ -97,6 +98,8 @@ Sentença curta e conceitual que define algo de forma inesperada.
 **Quando usar:** arquétipo Reflexão, Insight, Framework. Nunca em Caso (caso precisa de cena).
 
 ### Técnica 2 — Lista negada (Gui Wadouski)
+
+> ⚠️ VETADA pela Lilian (jun/2026) — soa texto de IA. Não usar.
 Sequência de parágrafos curtos que negam possíveis explicações antes de entregar o ponto.
 
 **Exemplo do Gui:**
@@ -113,6 +116,8 @@ Sequência de parágrafos curtos que negam possíveis explicações antes de ent
 **Quando usar:** qualquer arquétipo, sempre depois de levantar a pergunta "por que X acontece?". Cria pressão retórica antes da revelação.
 
 ### Técnica 3 — Estrutura "Não é X. É Y." (Leonardo Toledo)
+
+> ⚠️ VETADA pela Lilian (jun/2026) — soa texto de IA. Não usar, nem na variação "essa é a pergunta errada / a pergunta certa é". Substituir por afirmação diagnóstica única, integrada ao fluxo do parágrafo.
 Tese-negação clássica: virar uma crença comum de cabeça pra baixo.
 
 **Exemplo do Leo:**
@@ -211,7 +216,7 @@ Cada arquétipo tem estrutura própria, abertura característica, técnicas prio
 **Estrutura obrigatória (6 partes):**
 1. **Dado-choque específico** (1-3 linhas) — número + data + nome de empresa real. "Semana passada, 30 mil pessoas..."
 2. **Expansão do dado** (3-5 linhas) — mais dados, mais empresas, fonte de pesquisa (PwC, McKinsey, Deloitte, Valor, Exame)
-3. **Reposicionamento da pergunta** (Técnica 3) (2-3 linhas) — "E todo mundo se pergunta X. Só que essa é a pergunta errada. A pergunta certa é Y."
+3. **Reposicionamento da leitura** (2-3 linhas) — virar a leitura comum do dado como afirmação diagnóstica única, integrada ao fluxo (sem "pergunta errada/pergunta certa", sem "Não é X. É Y.").
 4. **Cena projetada** (3-5 linhas) — "Imagina a cena: você é Gerente, 20 anos de empresa, às 5h59 você é referência, às 6h é ex-funcionário"
 5. **Ponte pra transformação** (3-4 linhas) — o que os profissionais que estão do outro lado da tendência já fizeram
 6. **Sentença-insight de fechamento** — frase cortante
@@ -301,6 +306,7 @@ Antes de entregar qualquer texto de LinkedIn, a skill precisa verificar:
 - [ ] Cita dado/nome/data concreta em pelo menos 1 ponto?
 - [ ] Alternância de pronome eu/ela/você está natural?
 - [ ] Evitou "dica", "3 passos", "checklist", linguagem alpha?
+- [ ] Não usou "Não é X. É Y.", "pergunta errada/pergunta certa" nem lista negada?
 - [ ] Não é post celebratório da própria empresa sem valor pro leitor?
 - [ ] Arquétipo usado está correto pro objetivo do briefing?
 - [ ] Se usou técnica emprestada (aforismo, lista negada, Não-é-X-É-Y, aspas-citação, CTA-filtro), ela está bem integrada e não destoa da voz?
