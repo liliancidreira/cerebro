@@ -297,7 +297,7 @@ Antes de entregar qualquer texto de LinkedIn, a skill precisa verificar:
 
 - [ ] Primeira linha tem ≤ 210 caracteres e sobrevive ao corte do "Ver mais"?
 - [ ] Abertura é cirúrgica (cena / quebra / dado / tese), nunca genérica?
-- [ ] Comprimento entre 1500-2200 caracteres?
+- [ ] Comprimento entre 1300-2000 caracteres (até 2200 se a história pedir)?
 - [ ] Zero hashtag?
 - [ ] Zero emoji?
 - [ ] Tem ponte pro ICP na segunda metade?
@@ -315,7 +315,34 @@ Se alguma resposta for "não", reescrever antes de entregar.
 
 ---
 
-## 7. Referência cruzada
+## 7. Algoritmo e estrutura 2026 — referências globais (atualizado jun/2026)
+
+> Fontes: Algorithm Insights Report 2026 (Richard van der Blom, 1,3M posts), Buffer (4,8M posts), Sprout Social, ConnectSafely. Revisar semestralmente.
+
+### Como o algoritmo distribui hoje
+- **Interest Graph / Topic Authority:** a distribuição é por TEMA, não por rede. Manter o mesmo território (carreira, mentoria, autoridade executiva) e variar ângulo + arquétipo. Generalista perde alcance.
+- **Baseline caiu:** alcance médio da plataforma caiu ~50% e engajamento ~25% em 2025-26. Comparar posts novos com essa régua, não com os picos antigos.
+- **Dwell time é a moeda:** tempo de leitura pesa mais que likes. Saves e comentários substanciais (15+ palavras) são os sinais mais fortes.
+- **Zero link externo no corpo** (reduz alcance ~19%; se precisar, link no 1º comentário). Zero hashtag (já era regra).
+
+### Rotina de publicação
+- **Cadência:** 3-5 posts/semana. Abaixo de 2/semana o algoritmo reduz a distribuição do perfil.
+- **Janela:** terça a quinta, 10h-12h; quarta é o dia mais consistente.
+- **Primeira hora é sagrada:** responder TODO comentário em até 30 min (gera ~64% mais comentários e ~2,3x mais views). Autor presente por 60-90 min após publicar. Nenhum comentário fica sem resposta, nunca.
+- **Formato a testar com recorrência:** carrossel PDF/documento (maior engajamento da plataforma, ~6,6%, 2-3x mais dwell time que texto puro) — usar a skill criador-carrossel também para LinkedIn.
+
+### Estrutura de texto — as 4 batidas
+1. **Gancho** (≤210 caracteres): afirmação específica, número, contrário ou confissão. Nunca saudação/aquecimento.
+2. **Virada** (300-400 caracteres): a surpresa que segura quem clicou em "ver mais" — dado contraintuitivo, confissão, crença que será quebrada.
+3. **Entrega** (600-900 caracteres): a história/lição/framework. **Valor cedo — não enterrar o insight no último parágrafo.**
+4. **CTA** (100-200 caracteres): pergunta específica que só o leitor responde com a própria experiência (a pergunta-filtro já é regra da casa). Em post de ensino (objetivo atrair), CTA de salvar é permitido e tem alto ROI algorítmico.
+
+- **Esqueletos validados** (mapear nos arquétipos): gancho + história + lição (Caso, Bastidor) e problema + agitação + solução (Insight, Framework).
+- **Tamanho-alvo revisado: 1.300-2.000 caracteres** (une o sweet spot global 1.300-1.600 ao histórico da Lilian). Quebra de linha a cada 1-2 frases — feed é mobile-first.
+
+---
+
+## 8. Referência cruzada
 
 - **Voz geral da Lilian + proibições:** ver `brand-knowledge.md` neste mesmo diretório
 - **Banco de histórias reais:** ver `banco-de-historias.md`
