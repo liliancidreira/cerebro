@@ -2,7 +2,7 @@
 
 Este arquivo é a fonte de verdade sobre COMO escrever textos de LinkedIn que convertem o ICP da Lilian (executivos 40-55 buscando transformar expertise em negócio próprio).
 
-**Regra fundamental:** o LinkedIn não é um Instagram mais corporativo. É um habitat narrativo completamente diferente. O algoritmo corta o texto em ~210 caracteres (a primeira linha decide o clique no "Ver mais"). O sweet spot é 1500-2200 caracteres. Zero hashtag. Zero emoji. Zero linguagem de coach.
+**Regra fundamental:** o LinkedIn não é um Instagram mais corporativo. É um habitat narrativo completamente diferente. O algoritmo corta o texto em ~210 caracteres (a primeira linha decide o clique no "Ver mais"). O sweet spot é 1300-2000 caracteres (detalhe na seção 7). Zero hashtag. Zero emoji. Zero linguagem de coach.
 
 ---
 
