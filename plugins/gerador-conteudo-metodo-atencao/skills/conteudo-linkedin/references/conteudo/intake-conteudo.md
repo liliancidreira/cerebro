@@ -1,10 +1,20 @@
 # Intake de Conteúdo — fluxo OBRIGATÓRIO antes de escrever qualquer peça
 
-Fonte única do fluxo de criação de conteúdo. **Toda skill de conteúdo** (post de LinkedIn, reel, carrossel, legenda, ou o orquestrador) segue este intake **antes de escrever**, sem exceção. Mudou aqui, vale para todas.
+Fonte única do fluxo de criação de conteúdo. **Toda skill de conteúdo** (post de LinkedIn, reel, carrossel, legenda, ou o orquestrador) segue este intake **antes de escrever**, sem exceção — começando pelo Passo 0 (alinhamento de linha de pensamento). Mudou aqui, vale para todas.
 
 > Regra de ouro: **o checklist pré-escrita é obrigatório toda vez.** Não escrever a peça final antes de passar por ele.
 
 ---
+
+## Passo 0 — Alinhamento de linha de pensamento (OBRIGATÓRIO, antes de tudo)
+Regra definida pela Lilian (jun/2026), válida para QUALQUER conteúdo (LinkedIn, reel, carrossel, legenda, news):
+
+1. Antes de criar, pergunte: **"Você está disponível para responder algumas perguntas sobre a sua opinião/linha de raciocínio para este conteúdo, ou prefere que eu crie com base no que já conheço de você?"**
+2. Se ela escolher responder: faça **no máximo 3 perguntas**, desenhadas para capturar a **visão/opinião dela sobre a linha de raciocínio** que o conteúdo vai construir (não perguntas operacionais de formato/objetivo — essas são dos passos 1-3).
+3. Se ela preferir delegar: siga com o que o cérebro já registra sobre a visão dela.
+4. Ao entregar a peça, sinalize em 1 linha a linha de pensamento usada, para validação.
+
+> Exemplo real (jun/2026, árbitro Wilton falando inglês na Copa): a tese da Lilian era "muitos acreditam que sem inglês fluente não se chega a posições altas; quando o profissional é reconhecido pela alta gestão, o idioma vira uma peça menos importante". Sem capturar isso antes, o conteúdo sairia com tese genérica de anti-perfeccionismo — parecida, mas não a dela.
 
 ## Passo 1 — Produto (perguntar sempre)
 Pergunte (AskUserQuestion) para qual produto/foco o conteúdo serve:
