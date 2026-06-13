@@ -7,14 +7,15 @@ Fonte única do fluxo de criação de conteúdo. **Toda skill de conteúdo** (po
 ---
 
 ## Passo 0 — Alinhamento de linha de pensamento (OBRIGATÓRIO, antes de tudo)
-Regra definida pela Lilian (jun/2026), válida para QUALQUER conteúdo (LinkedIn, reel, carrossel, legenda, news):
+Regra definida pela Lilian (jun/2026) e refinada após o post do árbitro Wilton viralizar — válida para QUALQUER conteúdo (LinkedIn, reel, carrossel, legenda, news). **O que faz o conteúdo performar é a VISÃO da Lilian com a técnica por cima, não a sugestão genérica do assistente.**
 
-1. Antes de criar, pergunte: **"Você está disponível para responder algumas perguntas sobre a sua opinião/linha de raciocínio para este conteúdo, ou prefere que eu crie com base no que já conheço de você?"**
-2. Se ela escolher responder: faça **no máximo 3 perguntas**, desenhadas para capturar a **visão/opinião dela sobre a linha de raciocínio** que o conteúdo vai construir (não perguntas operacionais de formato/objetivo — essas são dos passos 1-3).
-3. Se ela preferir delegar: siga com o que o cérebro já registra sobre a visão dela.
-4. Ao entregar a peça, sinalize em 1 linha a linha de pensamento usada, para validação.
+**Gatilho da regra:** sempre que o assistente **sugere um tema/ideia e a Lilian aprova**, antes de escrever ele faz **exatamente 2 perguntas** sobre a **opinião/linha de raciocínio dela** para aquele tema.
+- As 2 perguntas servem para capturar **quem ela é e as bandeiras que ela defende** sobre o assunto — não detalhes operacionais de formato/objetivo (esses são dos passos 1-3).
+- Com as respostas, escreve aplicando a técnica (arquétipo, gatilhos, voz) por cima da visão dela.
+- Se a própria Lilian já trouxe a linha de raciocínio na conversa, use-a e pule as perguntas (não repetir o que ela já disse).
+- Ao entregar, sinalize em 1 linha a linha de pensamento usada, para validação.
 
-> Exemplo real (jun/2026, árbitro Wilton falando inglês na Copa): a tese da Lilian era "muitos acreditam que sem inglês fluente não se chega a posições altas; quando o profissional é reconhecido pela alta gestão, o idioma vira uma peça menos importante". Sem capturar isso antes, o conteúdo sairia com tese genérica de anti-perfeccionismo — parecida, mas não a dela.
+> Exemplo real (jun/2026, árbitro Wilton falando inglês na Copa): a tese da Lilian era "muitos acreditam que sem inglês fluente não se chega a posições altas; quando o profissional é reconhecido pela alta gestão (Impressão Digital Corporativa forte), o idioma vira peça menos importante". O post foi escrito com essa visão + técnica e performou muito bem. Sem capturar isso antes, sairia uma tese genérica de anti-perfeccionismo — parecida, mas não a dela.
 
 ## Passo 1 — Produto (perguntar sempre)
 Pergunte (AskUserQuestion) para qual produto/foco o conteúdo serve:
