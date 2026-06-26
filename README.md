@@ -21,6 +21,7 @@ cerebro/
 │       ├── formato-vs-assunto.md   — Escalar por formato ou assunto
 │       ├── metricas-validacao.md   — 3 métricas + diagnóstico
 │       └── regras-de-funil.md      — Topo/meio/fundo + Stories
+│   ├── biblioteca-angulos-mentor.md – Ângulos do webinário do mentor (swipe file)
 ├── exemplos/
 │   └── conteudos-aprovados.md      — Registro de conteúdos que performaram
 ├── banco-de-historias.md           — Histórias reais para storytelling
@@ -38,5 +39,6 @@ cerebro/
 
 ## Histórico
 
+- 2026-06-26 — Adicionada biblioteca de ângulos em skill-knowledge/biblioteca-angulos-mentor.md (inteligência competitiva extraída de webinário do mentor Leonardo Toledo / SHP), para consumo das skills de conteúdo e prospecção.
 - 2026-04-04 — Adicionada base de conhecimento Método Atenção Digital (7 arquivos em skill-knowledge/metodo-atencao/) + pasta exemplos/ com registro de performance.
 - 2026-03-28 — Repositório criado. Banco inicializado com primeira história real (médica demitida → contrato hospitalar) + primeiros 8 aprendizados de voz registrados.
