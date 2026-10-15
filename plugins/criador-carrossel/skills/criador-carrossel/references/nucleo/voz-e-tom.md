@@ -43,3 +43,4 @@ Como a Lilian fala — em conteúdo, em vendas, em qualquer canal. Consolidado a
 
 ## Formatação
 - Em carrosséis e legendas: **zero emoji, zero hashtag**. Frases curtas; cada card autossuficiente mas puxa pro próximo. Legenda termina com @aliliancidreira.
+- **Legenda de carrossel: breve, resume o tema sem repetir nem aprofundar o conteúdo dos cards, e repete o CTA do último card.** (regra da Lilian, out/2026)
