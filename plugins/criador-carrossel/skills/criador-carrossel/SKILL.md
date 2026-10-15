@@ -64,6 +64,8 @@ Antes de escrever qualquer card, responda internamente:
 
 Se a resposta não estiver clara, o carrossel não está pronto para ser escrito.
 
+> **REGRA DA LILIAN — LIMITE DE CARDS (inviolável, out/2026):** todo carrossel tem **no máximo 7 cards**, inclusive capa e CTA. Só passar de 7 quando a Lilian pedir explicitamente naquela peça. Os modelos de comparação, que no método original têm 9 cards, devem ser **compactados para 7**: capa absorve a premissa como subtítulo, e os cards de diagnóstico se fundem em um só. Os modelos "7+" ficam em 7.
+
 ## Os 12 Modelos Disponíveis
 
 Existem 2 grandes formatos, cada um com modelos específicos. Os modelos estão detalhados em `references/modelos-carrossel.md`.
@@ -86,18 +88,18 @@ Mudam o critério de leitura da audiência. Não ensinam passo a passo — mostr
 
 | # | Modelo | Quando usar | Nº Cards |
 |---|--------|-------------|----------|
-| 1 | **O Que Ela Quer x O Que Ela Faz** | Gerar choque de consciência (fantasia vs comportamento real) | 9 |
-| 2 | **O Que Te Contam x O Que Eu Te Conto** | Posicionar com autoridade + vínculo, quebrar promessas fáceis | 9 |
-| 3 | **Isso NÃO É x Isso É** | Definir conceitos e corrigir confusões comuns do mercado | 9 |
-| 4 | **Não É Difícil x Difícil É** | Quebrar desculpas e racionalizações, reflexão emocional | 9 |
+| 1 | **O Que Ela Quer x O Que Ela Faz** | Gerar choque de consciência (fantasia vs comportamento real) | 9 no original → **máx. 7** |
+| 2 | **O Que Te Contam x O Que Eu Te Conto** | Posicionar com autoridade + vínculo, quebrar promessas fáceis | 9 no original → **máx. 7** |
+| 3 | **Isso NÃO É x Isso É** | Definir conceitos e corrigir confusões comuns do mercado | 9 no original → **máx. 7** |
+| 4 | **Não É Difícil x Difícil É** | Quebrar desculpas e racionalizações, reflexão emocional | 9 no original → **máx. 7** |
 | 5 | **Ilusão x Realidade** | Amadurecer a visão da audiência, filtrar público | 7 |
 
 ### MODELOS EXTRAS
 
 | # | Modelo | Quando usar | Nº Cards |
 |---|--------|-------------|----------|
-| 6 | **Julgamento Inicial vs Resultado Real** | Coragem, identidade, permanência — inspiracional sem romantizar | 7+ |
-| 7 | **Antes do Começo x Depois da Coragem** | Falar com quem está travada pelo medo do julgamento | 7+ |
+| 6 | **Julgamento Inicial vs Resultado Real** | Coragem, identidade, permanência — inspiracional sem romantizar | **máx. 7** |
+| 7 | **Antes do Começo x Depois da Coragem** | Falar com quem está travada pelo medo do julgamento | **máx. 7** |
 
 ## Como Escolher o Modelo Certo
 
@@ -275,6 +277,7 @@ Se **ESCRITA_OK**: edite o arquivo de origem em `cerebro_w/` (ex.: `cerebro_w/nu
 
 ## Regras Estratégicas
 
+- **No máximo 7 cards por carrossel** (capa e CTA inclusos). Passar disso só quando a Lilian pedir explicitamente.
 - Nunca usar fundo de funil no feed — vendas ficam em Stories e DM
 - Variar os modelos entre carrosséis consecutivos — nunca repetir o mesmo modelo em sequência
 - Os cards de "Fechamento" no penúltimo card têm opções de modelo (Consequência, Falso Segredo, Percepção, etc.) — escolher o que melhor serve o tema
