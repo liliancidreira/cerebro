@@ -6,6 +6,8 @@ Objetivo final de todo carrossel: despertar no ICP o desejo de conhecer o trabal
 
 > Detalhe **card a card** de cada modelo: `modelos-carrossel.md` (a consolidar do repo na migração).
 
+> **REGRA DA LILIAN — LIMITE DE CARDS (inviolável, out/2026):** todo carrossel tem **no máximo 7 cards**, inclusive capa e CTA. Só passar de 7 quando a Lilian pedir explicitamente naquela peça. Os modelos de comparação, que no método original têm 9 cards, devem ser **compactados para 7**: capa absorve a premissa como subtítulo, e os cards de diagnóstico se fundem em um só. Os modelos "7+" ficam em 7.
+
 ## Formato 1 — Antes e Depois (contraste) — topo de funil, educativo
 | # | Modelo | Quando usar | Cards |
 |---|--------|-------------|-------|
@@ -18,17 +20,17 @@ Objetivo final de todo carrossel: despertar no ICP o desejo de conhecer o trabal
 ## Formato 2 — Comparação — consciência rápida, filtra público
 | # | Modelo | Quando usar | Cards |
 |---|--------|-------------|-------|
-| 1 | O Que Ela Quer x O Que Ela Faz | Choque de consciência (fantasia vs comportamento real) | 9 |
-| 2 | O Que Te Contam x O Que Eu Te Conto | Autoridade + vínculo, quebrar promessas fáceis | 9 |
-| 3 | Isso NÃO É x Isso É | Definir conceitos, corrigir confusões do mercado | 9 |
-| 4 | Não É Difícil x Difícil É | Quebrar desculpas e racionalizações, reflexão emocional | 9 |
+| 1 | O Que Ela Quer x O Que Ela Faz | Choque de consciência (fantasia vs comportamento real) | 9 no original → **máx. 7** |
+| 2 | O Que Te Contam x O Que Eu Te Conto | Autoridade + vínculo, quebrar promessas fáceis | 9 no original → **máx. 7** |
+| 3 | Isso NÃO É x Isso É | Definir conceitos, corrigir confusões do mercado | 9 no original → **máx. 7** |
+| 4 | Não É Difícil x Difícil É | Quebrar desculpas e racionalizações, reflexão emocional | 9 no original → **máx. 7** |
 | 5 | Ilusão x Realidade | Amadurecer a visão, filtrar público | 7 |
 
 ## Modelos extras
 | # | Modelo | Quando usar | Cards |
 |---|--------|-------------|-------|
-| 6 | Julgamento Inicial vs Resultado Real | Coragem, identidade, permanência — inspiracional sem romantizar | 7+ |
-| 7 | Antes do Começo x Depois da Coragem | Falar com quem está travada pelo medo do julgamento | 7+ |
+| 6 | Julgamento Inicial vs Resultado Real | Coragem, identidade, permanência — inspiracional sem romantizar | **máx. 7** |
+| 7 | Antes do Começo x Depois da Coragem | Falar com quem está travada pelo medo do julgamento | **máx. 7** |
 
 ## Como escolher (parte do objetivo, não do tema)
 | Objetivo | Modelos ideais |
@@ -41,6 +43,7 @@ Objetivo final de todo carrossel: despertar no ICP o desejo de conhecer o trabal
 | Quebrar objeções | Não É Difícil/Difícil É, Julgamento Inicial/Resultado Real |
 
 ## Regras de voz no carrossel
+- **Máximo de 7 cards** (ver regra no topo). Mais que isso só a pedido da Lilian.
 - "eu" e "você" — nunca "a gente"/"vocês". Feminino ("eu fui demitida").
 - Tom diagnóstico, assertivo, experiente — nunca motivacional genérico.
 - **Zero emojis, zero hashtags.** Frases curtas; cada card autossuficiente mas puxa pro próximo.
