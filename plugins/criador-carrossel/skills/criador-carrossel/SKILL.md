@@ -195,11 +195,10 @@ Após aprovação do briefing, escreva o carrossel completo seguindo estas diret
 - O **dado concreto** entra como âncora de credibilidade — pode ser na capa (para impacto) ou no desenvolvimento (para sustentar argumento)
 - Os demais cards trabalham o contraste do modelo com o vocabulário e a voz da Lilian
 
-**Escrita da Legenda:**
-- Máximo 150 palavras
-- Primeira linha reforça o gancho do carrossel por um ângulo diferente
-- 1-2 parágrafos curtos que expandem com perspectiva adicional
-- CTA direto no final (pode ser diferente do CTA do carrossel)
+**Escrita da Legenda (regra da Lilian, out/2026):**
+- **Breve**: resume o tema do carrossel sem repetir nem aprofundar o conteúdo dos cards
+- Máximo 150 palavras, mas o ideal é bem menos (2-4 linhas curtas)
+- **Repete o CTA do último card** (o mesmo CTA, não um diferente)
 - Termina com @aliliancidreira
 - Sem emojis, sem hashtags
 

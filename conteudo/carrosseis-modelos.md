@@ -47,5 +47,5 @@ Objetivo final de todo carrossel: despertar no ICP o desejo de conhecer o trabal
 - "eu" e "você" — nunca "a gente"/"vocês". Feminino ("eu fui demitida").
 - Tom diagnóstico, assertivo, experiente — nunca motivacional genérico.
 - **Zero emojis, zero hashtags.** Frases curtas; cada card autossuficiente mas puxa pro próximo.
-- Legenda: máx. 150 palavras, termina com @aliliancidreira, sem emoji/hashtag.
+- Legenda: **breve**, resume o tema sem repetir nem aprofundar o conteúdo dos cards, e **repete o CTA** do último card. Máx. 150 palavras (o ideal é bem menos), termina com @aliliancidreira, sem emoji/hashtag.
 - Nunca inventar casos ou dados — usar o banco de histórias e as provas do núcleo.
